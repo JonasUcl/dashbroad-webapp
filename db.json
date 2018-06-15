@@ -1,0 +1,11883 @@
+[
+    {
+"id_variacao": 1,
+"mes": 1,
+"ano": 2017,
+"valor": 0.42,
+"id_municipio_f": 0,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 2,
+"mes": 1,
+"ano": 2017,
+"valor": 0.35,
+"id_municipio_f": 0,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 3,
+"mes": 1,
+"ano": 2017,
+"valor": 0.11,
+"id_municipio_f": 0,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 4,
+"mes": 1,
+"ano": 2017,
+"valor": -0.19,
+"id_municipio_f": 0,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 5,
+"mes": 1,
+"ano": 2017,
+"valor": -0.45,
+"id_municipio_f": 0,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 6,
+"mes": 1,
+"ano": 2017,
+"valor": 1.6,
+"id_municipio_f": 0,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 7,
+"mes": 1,
+"ano": 2017,
+"valor": 0.44,
+"id_municipio_f": 0,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 8,
+"mes": 1,
+"ano": 2017,
+"valor": 0.24,
+"id_municipio_f": 0,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 9,
+"mes": 1,
+"ano": 2017,
+"valor": 0.32,
+"id_municipio_f": 0,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 10,
+"mes": 1,
+"ano": 2017,
+"valor": 0.7,
+"id_municipio_f": 0,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 11,
+"mes": 2,
+"ano": 2017,
+"valor": 0.24,
+"id_municipio_f": 0,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 12,
+"mes": 2,
+"ano": 2017,
+"valor": -0.53,
+"id_municipio_f": 0,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 13,
+"mes": 2,
+"ano": 2017,
+"valor": 0.08,
+"id_municipio_f": 0,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 14,
+"mes": 2,
+"ano": 2017,
+"valor": 0.34,
+"id_municipio_f": 0,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 15,
+"mes": 2,
+"ano": 2017,
+"valor": -0.18,
+"id_municipio_f": 0,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 16,
+"mes": 2,
+"ano": 2017,
+"valor": 1.1,
+"id_municipio_f": 0,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 17,
+"mes": 2,
+"ano": 2017,
+"valor": 0.56,
+"id_municipio_f": 0,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 18,
+"mes": 2,
+"ano": 2017,
+"valor": 0.16,
+"id_municipio_f": 0,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 19,
+"mes": 2,
+"ano": 2017,
+"valor": 4.7,
+"id_municipio_f": 0,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 20,
+"mes": 2,
+"ano": 2017,
+"valor": 0.41,
+"id_municipio_f": 0,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 21,
+"mes": 3,
+"ano": 2017,
+"valor": 0.32,
+"id_municipio_f": 0,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 22,
+"mes": 3,
+"ano": 2017,
+"valor": 0.32,
+"id_municipio_f": 0,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 23,
+"mes": 3,
+"ano": 2017,
+"valor": 1.2,
+"id_municipio_f": 0,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 24,
+"mes": 3,
+"ano": 2017,
+"valor": -0.38,
+"id_municipio_f": 0,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 25,
+"mes": 3,
+"ano": 2017,
+"valor": -0.12,
+"id_municipio_f": 0,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 26,
+"mes": 3,
+"ano": 2017,
+"valor": -0.47,
+"id_municipio_f": 0,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 27,
+"mes": 3,
+"ano": 2017,
+"valor": 0.62,
+"id_municipio_f": 0,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 28,
+"mes": 3,
+"ano": 2017,
+"valor": 0.63,
+"id_municipio_f": 0,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 29,
+"mes": 3,
+"ano": 2017,
+"valor": 0.81,
+"id_municipio_f": 0,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 30,
+"mes": 3,
+"ano": 2017,
+"valor": -0.72,
+"id_municipio_f": 0,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 31,
+"mes": 4,
+"ano": 2017,
+"valor": 0.08,
+"id_municipio_f": 0,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 32,
+"mes": 4,
+"ano": 2017,
+"valor": 0.54,
+"id_municipio_f": 0,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 33,
+"mes": 4,
+"ano": 2017,
+"valor": -1.1,
+"id_municipio_f": 0,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 34,
+"mes": 4,
+"ano": 2017,
+"valor": -0.36,
+"id_municipio_f": 0,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 35,
+"mes": 4,
+"ano": 2017,
+"valor": 0.42,
+"id_municipio_f": 0,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 36,
+"mes": 4,
+"ano": 2017,
+"valor": -0.13,
+"id_municipio_f": 0,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 37,
+"mes": 4,
+"ano": 2017,
+"valor": 0.87,
+"id_municipio_f": 0,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 38,
+"mes": 4,
+"ano": 2017,
+"valor": 0.02,
+"id_municipio_f": 0,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 39,
+"mes": 4,
+"ano": 2017,
+"valor": 0.04,
+"id_municipio_f": 0,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 40,
+"mes": 4,
+"ano": 2017,
+"valor": 0.58,
+"id_municipio_f": 0,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 41,
+"mes": 5,
+"ano": 2017,
+"valor": 0.36,
+"id_municipio_f": 0,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 42,
+"mes": 5,
+"ano": 2017,
+"valor": -0.44,
+"id_municipio_f": 0,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 43,
+"mes": 5,
+"ano": 2017,
+"valor": 2.1,
+"id_municipio_f": 0,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 44,
+"mes": 5,
+"ano": 2017,
+"valor": -0.27,
+"id_municipio_f": 0,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 45,
+"mes": 5,
+"ano": 2017,
+"valor": 0.89,
+"id_municipio_f": 0,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 46,
+"mes": 5,
+"ano": 2017,
+"valor": 0.06,
+"id_municipio_f": 0,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 47,
+"mes": 5,
+"ano": 2017,
+"valor": 0.48,
+"id_municipio_f": 0,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 48,
+"mes": 5,
+"ano": 2017,
+"valor": 0.19,
+"id_municipio_f": 0,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 49,
+"mes": 5,
+"ano": 2017,
+"valor": 0.18,
+"id_municipio_f": 0,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 50,
+"mes": 5,
+"ano": 2017,
+"valor": 0.11,
+"id_municipio_f": 0,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 51,
+"mes": 6,
+"ano": 2017,
+"valor": -0.3,
+"id_municipio_f": 0,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 52,
+"mes": 6,
+"ano": 2017,
+"valor": -0.52,
+"id_municipio_f": 0,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 53,
+"mes": 6,
+"ano": 2017,
+"valor": -0.76,
+"id_municipio_f": 0,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 54,
+"mes": 6,
+"ano": 2017,
+"valor": -0.04,
+"id_municipio_f": 0,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 55,
+"mes": 6,
+"ano": 2017,
+"valor": 0.28,
+"id_municipio_f": 0,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 56,
+"mes": 6,
+"ano": 2017,
+"valor": -0.52,
+"id_municipio_f": 0,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 57,
+"mes": 6,
+"ano": 2017,
+"valor": 0.31,
+"id_municipio_f": 0,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 58,
+"mes": 6,
+"ano": 2017,
+"valor": 0.25,
+"id_municipio_f": 0,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 59,
+"mes": 6,
+"ano": 2017,
+"valor": 0.17,
+"id_municipio_f": 0,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 60,
+"mes": 6,
+"ano": 2017,
+"valor": 0.05,
+"id_municipio_f": 0,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 61,
+"mes": 7,
+"ano": 2017,
+"valor": 0.17,
+"id_municipio_f": 0,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 62,
+"mes": 7,
+"ano": 2017,
+"valor": -0.45,
+"id_municipio_f": 0,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 63,
+"mes": 7,
+"ano": 2017,
+"valor": 1.7,
+"id_municipio_f": 0,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 64,
+"mes": 7,
+"ano": 2017,
+"valor": -0.25,
+"id_municipio_f": 0,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 65,
+"mes": 7,
+"ano": 2017,
+"valor": -0.42,
+"id_municipio_f": 0,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 66,
+"mes": 7,
+"ano": 2017,
+"valor": 0.16,
+"id_municipio_f": 0,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 67,
+"mes": 7,
+"ano": 2017,
+"valor": 0.24,
+"id_municipio_f": 0,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 68,
+"mes": 7,
+"ano": 2017,
+"valor": 0.29,
+"id_municipio_f": 0,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 69,
+"mes": 7,
+"ano": 2017,
+"valor": -0.04,
+"id_municipio_f": 0,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 70,
+"mes": 7,
+"ano": 2017,
+"valor": -0.03,
+"id_municipio_f": 0,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 71,
+"mes": 8,
+"ano": 2017,
+"valor": -0.03,
+"id_municipio_f": 0,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 72,
+"mes": 8,
+"ano": 2017,
+"valor": -1.2,
+"id_municipio_f": 0,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 73,
+"mes": 8,
+"ano": 2017,
+"valor": 0.38,
+"id_municipio_f": 0,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 74,
+"mes": 8,
+"ano": 2017,
+"valor": 0.09,
+"id_municipio_f": 0,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 75,
+"mes": 8,
+"ano": 2017,
+"valor": 0.28,
+"id_municipio_f": 0,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 76,
+"mes": 8,
+"ano": 2017,
+"valor": 1.4,
+"id_municipio_f": 0,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 77,
+"mes": 8,
+"ano": 2017,
+"valor": 0.1,
+"id_municipio_f": 0,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 78,
+"mes": 8,
+"ano": 2017,
+"valor": 0.25,
+"id_municipio_f": 0,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 79,
+"mes": 8,
+"ano": 2017,
+"valor": 0.34,
+"id_municipio_f": 0,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 80,
+"mes": 8,
+"ano": 2017,
+"valor": -0.68,
+"id_municipio_f": 0,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 81,
+"mes": 9,
+"ano": 2017,
+"valor": -0.02,
+"id_municipio_f": 0,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 82,
+"mes": 9,
+"ano": 2017,
+"valor": -0.57,
+"id_municipio_f": 0,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 83,
+"mes": 9,
+"ano": 2017,
+"valor": 0.08,
+"id_municipio_f": 0,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 84,
+"mes": 9,
+"ano": 2017,
+"valor": 0.13,
+"id_municipio_f": 0,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 85,
+"mes": 9,
+"ano": 2017,
+"valor": 0.3,
+"id_municipio_f": 0,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 86,
+"mes": 9,
+"ano": 2017,
+"valor": 0.12,
+"id_municipio_f": 0,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 87,
+"mes": 9,
+"ano": 2017,
+"valor": 0.27,
+"id_municipio_f": 0,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 88,
+"mes": 9,
+"ano": 2017,
+"valor": 0.61,
+"id_municipio_f": 0,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 89,
+"mes": 9,
+"ano": 2017,
+"valor": 0.03,
+"id_municipio_f": 0,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 90,
+"mes": 9,
+"ano": 2017,
+"valor": 0.57,
+"id_municipio_f": 0,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 91,
+"mes": 10,
+"ano": 2017,
+"valor": 0.37,
+"id_municipio_f": 0,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 92,
+"mes": 10,
+"ano": 2017,
+"valor": -0.11,
+"id_municipio_f": 0,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 93,
+"mes": 10,
+"ano": 2017,
+"valor": 1.5,
+"id_municipio_f": 0,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 94,
+"mes": 10,
+"ano": 2017,
+"valor": -0.29,
+"id_municipio_f": 0,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 95,
+"mes": 10,
+"ano": 2017,
+"valor": 0.68,
+"id_municipio_f": 0,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 96,
+"mes": 10,
+"ano": 2017,
+"valor": 0.22,
+"id_municipio_f": 0,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 97,
+"mes": 10,
+"ano": 2017,
+"valor": 0.38,
+"id_municipio_f": 0,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 98,
+"mes": 10,
+"ano": 2017,
+"valor": 0.28,
+"id_municipio_f": 0,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 99,
+"mes": 10,
+"ano": 2017,
+"valor": 0.09,
+"id_municipio_f": 0,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 100,
+"mes": 10,
+"ano": 2017,
+"valor": 0.41,
+"id_municipio_f": 0,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 101,
+"mes": 11,
+"ano": 2017,
+"valor": 0.18,
+"id_municipio_f": 0,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 102,
+"mes": 11,
+"ano": 2017,
+"valor": -0.54,
+"id_municipio_f": 0,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 103,
+"mes": 11,
+"ano": 2017,
+"valor": 1.3,
+"id_municipio_f": 0,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 104,
+"mes": 11,
+"ano": 2017,
+"valor": -0.56,
+"id_municipio_f": 0,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 105,
+"mes": 11,
+"ano": 2017,
+"valor": 0.17,
+"id_municipio_f": 0,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 106,
+"mes": 11,
+"ano": 2017,
+"valor": 0.43,
+"id_municipio_f": 0,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 107,
+"mes": 11,
+"ano": 2017,
+"valor": 0.2,
+"id_municipio_f": 0,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 108,
+"mes": 11,
+"ano": 2017,
+"valor": 0.36,
+"id_municipio_f": 0,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 109,
+"mes": 11,
+"ano": 2017,
+"valor": 0.09,
+"id_municipio_f": 0,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 110,
+"mes": 11,
+"ano": 2017,
+"valor": -0.04,
+"id_municipio_f": 0,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 111,
+"mes": 12,
+"ano": 2017,
+"valor": 0.26,
+"id_municipio_f": 0,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 112,
+"mes": 12,
+"ano": 2017,
+"valor": 0.43,
+"id_municipio_f": 0,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 113,
+"mes": 12,
+"ano": 2017,
+"valor": -0.36,
+"id_municipio_f": 0,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 114,
+"mes": 12,
+"ano": 2017,
+"valor": -0.08,
+"id_municipio_f": 0,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 115,
+"mes": 12,
+"ano": 2017,
+"valor": 0.85,
+"id_municipio_f": 0,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 116,
+"mes": 12,
+"ano": 2017,
+"valor": 0.58,
+"id_municipio_f": 0,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 117,
+"mes": 12,
+"ano": 2017,
+"valor": 0.19,
+"id_municipio_f": 0,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 118,
+"mes": 12,
+"ano": 2017,
+"valor": 0.34,
+"id_municipio_f": 0,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 119,
+"mes": 12,
+"ano": 2017,
+"valor": 0.21,
+"id_municipio_f": 0,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 120,
+"mes": 12,
+"ano": 2017,
+"valor": -0.13,
+"id_municipio_f": 0,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 121,
+"mes": 1,
+"ano": 2017,
+"valor": 0.57,
+"id_municipio_f": 1,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 122,
+"mes": 1,
+"ano": 2017,
+"valor": 0.43,
+"id_municipio_f": 1,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 123,
+"mes": 1,
+"ano": 2017,
+"valor": 0.07,
+"id_municipio_f": 1,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 124,
+"mes": 1,
+"ano": 2017,
+"valor": 0.51,
+"id_municipio_f": 1,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 125,
+"mes": 1,
+"ano": 2017,
+"valor": -0.21,
+"id_municipio_f": 1,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 126,
+"mes": 1,
+"ano": 2017,
+"valor": 2.5,
+"id_municipio_f": 1,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 127,
+"mes": 1,
+"ano": 2017,
+"valor": 0.78,
+"id_municipio_f": 1,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 128,
+"mes": 1,
+"ano": 2017,
+"valor": -0.09,
+"id_municipio_f": 1,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 129,
+"mes": 1,
+"ano": 2017,
+"valor": -0.42,
+"id_municipio_f": 1,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 130,
+"mes": 1,
+"ano": 2017,
+"valor": 0.99,
+"id_municipio_f": 1,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 131,
+"mes": 2,
+"ano": 2017,
+"valor": 0.35,
+"id_municipio_f": 1,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 132,
+"mes": 2,
+"ano": 2017,
+"valor": -0.67,
+"id_municipio_f": 1,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 133,
+"mes": 2,
+"ano": 2017,
+"valor": -0.36,
+"id_municipio_f": 1,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 134,
+"mes": 2,
+"ano": 2017,
+"valor": 0.58,
+"id_municipio_f": 1,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 135,
+"mes": 2,
+"ano": 2017,
+"valor": -0.37,
+"id_municipio_f": 1,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 136,
+"mes": 2,
+"ano": 2017,
+"valor": 3.4,
+"id_municipio_f": 1,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 137,
+"mes": 2,
+"ano": 2017,
+"valor": 0.36,
+"id_municipio_f": 1,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 138,
+"mes": 2,
+"ano": 2017,
+"valor": 0.68,
+"id_municipio_f": 1,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 139,
+"mes": 2,
+"ano": 2017,
+"valor": 5,
+"id_municipio_f": 1,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 140,
+"mes": 2,
+"ano": 2017,
+"valor": 0.87,
+"id_municipio_f": 1,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 141,
+"mes": 3,
+"ano": 2017,
+"valor": 0.11,
+"id_municipio_f": 1,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 142,
+"mes": 3,
+"ano": 2017,
+"valor": 0.15,
+"id_municipio_f": 1,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 143,
+"mes": 3,
+"ano": 2017,
+"valor": 0.43,
+"id_municipio_f": 1,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 144,
+"mes": 3,
+"ano": 2017,
+"valor": -0.53,
+"id_municipio_f": 1,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 145,
+"mes": 3,
+"ano": 2017,
+"valor": -0.14,
+"id_municipio_f": 1,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 146,
+"mes": 3,
+"ano": 2017,
+"valor": 0,
+"id_municipio_f": 1,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 147,
+"mes": 3,
+"ano": 2017,
+"valor": 0.66,
+"id_municipio_f": 1,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 148,
+"mes": 3,
+"ano": 2017,
+"valor": -0.29,
+"id_municipio_f": 1,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 149,
+"mes": 3,
+"ano": 2017,
+"valor": 0.35,
+"id_municipio_f": 1,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 150,
+"mes": 3,
+"ano": 2017,
+"valor": -0.63,
+"id_municipio_f": 1,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 151,
+"mes": 4,
+"ano": 2017,
+"valor": 0.01,
+"id_municipio_f": 1,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 152,
+"mes": 4,
+"ano": 2017,
+"valor": 0.65,
+"id_municipio_f": 1,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 153,
+"mes": 4,
+"ano": 2017,
+"valor": -1.1,
+"id_municipio_f": 1,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 154,
+"mes": 4,
+"ano": 2017,
+"valor": -0.07,
+"id_municipio_f": 1,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 155,
+"mes": 4,
+"ano": 2017,
+"valor": -0.05,
+"id_municipio_f": 1,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 156,
+"mes": 4,
+"ano": 2017,
+"valor": -1.1,
+"id_municipio_f": 1,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 157,
+"mes": 4,
+"ano": 2017,
+"valor": 0.21,
+"id_municipio_f": 1,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 158,
+"mes": 4,
+"ano": 2017,
+"valor": -0.29,
+"id_municipio_f": 1,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 159,
+"mes": 4,
+"ano": 2017,
+"valor": 0,
+"id_municipio_f": 1,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 160,
+"mes": 4,
+"ano": 2017,
+"valor": 1.2,
+"id_municipio_f": 1,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 161,
+"mes": 5,
+"ano": 2017,
+"valor": -0.09,
+"id_municipio_f": 1,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 162,
+"mes": 5,
+"ano": 2017,
+"valor": -1,
+"id_municipio_f": 1,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 163,
+"mes": 5,
+"ano": 2017,
+"valor": 1.1,
+"id_municipio_f": 1,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 164,
+"mes": 5,
+"ano": 2017,
+"valor": -0.61,
+"id_municipio_f": 1,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 165,
+"mes": 5,
+"ano": 2017,
+"valor": 0.3,
+"id_municipio_f": 1,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 166,
+"mes": 5,
+"ano": 2017,
+"valor": 0.33,
+"id_municipio_f": 1,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 167,
+"mes": 5,
+"ano": 2017,
+"valor": 0.8,
+"id_municipio_f": 1,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 168,
+"mes": 5,
+"ano": 2017,
+"valor": 0.76,
+"id_municipio_f": 1,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 169,
+"mes": 5,
+"ano": 2017,
+"valor": -0.26,
+"id_municipio_f": 1,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 170,
+"mes": 5,
+"ano": 2017,
+"valor": 0.91,
+"id_municipio_f": 1,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 171,
+"mes": 6,
+"ano": 2017,
+"valor": -0.08,
+"id_municipio_f": 1,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 172,
+"mes": 6,
+"ano": 2017,
+"valor": -0.3,
+"id_municipio_f": 1,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 173,
+"mes": 6,
+"ano": 2017,
+"valor": -0.17,
+"id_municipio_f": 1,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 174,
+"mes": 6,
+"ano": 2017,
+"valor": 0.03,
+"id_municipio_f": 1,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 175,
+"mes": 6,
+"ano": 2017,
+"valor": -0.26,
+"id_municipio_f": 1,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 176,
+"mes": 6,
+"ano": 2017,
+"valor": 0.31,
+"id_municipio_f": 1,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 177,
+"mes": 6,
+"ano": 2017,
+"valor": 0.16,
+"id_municipio_f": 1,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 178,
+"mes": 6,
+"ano": 2017,
+"valor": 0.47,
+"id_municipio_f": 1,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 179,
+"mes": 6,
+"ano": 2017,
+"valor": 0.04,
+"id_municipio_f": 1,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 180,
+"mes": 6,
+"ano": 2017,
+"valor": -0.05,
+"id_municipio_f": 1,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 181,
+"mes": 7,
+"ano": 2017,
+"valor": -0.03,
+"id_municipio_f": 1,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 182,
+"mes": 7,
+"ano": 2017,
+"valor": -0.54,
+"id_municipio_f": 1,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 183,
+"mes": 7,
+"ano": 2017,
+"valor": 2,
+"id_municipio_f": 1,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 184,
+"mes": 7,
+"ano": 2017,
+"valor": -0.67,
+"id_municipio_f": 1,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 185,
+"mes": 7,
+"ano": 2017,
+"valor": -0.42,
+"id_municipio_f": 1,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 186,
+"mes": 7,
+"ano": 2017,
+"valor": -0.03,
+"id_municipio_f": 1,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 187,
+"mes": 7,
+"ano": 2017,
+"valor": 0.37,
+"id_municipio_f": 1,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 188,
+"mes": 7,
+"ano": 2017,
+"valor": 0.02,
+"id_municipio_f": 1,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 189,
+"mes": 7,
+"ano": 2017,
+"valor": -0.27,
+"id_municipio_f": 1,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 190,
+"mes": 7,
+"ano": 2017,
+"valor": -0.14,
+"id_municipio_f": 1,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 191,
+"mes": 8,
+"ano": 2017,
+"valor": -0.35,
+"id_municipio_f": 1,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 192,
+"mes": 8,
+"ano": 2017,
+"valor": -1.7,
+"id_municipio_f": 1,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 193,
+"mes": 8,
+"ano": 2017,
+"valor": 1.5,
+"id_municipio_f": 1,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 194,
+"mes": 8,
+"ano": 2017,
+"valor": 0.2,
+"id_municipio_f": 1,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 195,
+"mes": 8,
+"ano": 2017,
+"valor": 0.17,
+"id_municipio_f": 1,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 196,
+"mes": 8,
+"ano": 2017,
+"valor": 0.97,
+"id_municipio_f": 1,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 197,
+"mes": 8,
+"ano": 2017,
+"valor": -0.43,
+"id_municipio_f": 1,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 198,
+"mes": 8,
+"ano": 2017,
+"valor": 0.53,
+"id_municipio_f": 1,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 199,
+"mes": 8,
+"ano": 2017,
+"valor": 0.05,
+"id_municipio_f": 1,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 200,
+"mes": 8,
+"ano": 2017,
+"valor": -0.02,
+"id_municipio_f": 1,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 201,
+"mes": 9,
+"ano": 2017,
+"valor": 0.32,
+"id_municipio_f": 1,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 202,
+"mes": 9,
+"ano": 2017,
+"valor": -0.21,
+"id_municipio_f": 1,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 203,
+"mes": 9,
+"ano": 2017,
+"valor": 1.6,
+"id_municipio_f": 1,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 204,
+"mes": 9,
+"ano": 2017,
+"valor": 0.6,
+"id_municipio_f": 1,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 205,
+"mes": 9,
+"ano": 2017,
+"valor": 0.33,
+"id_municipio_f": 1,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 206,
+"mes": 9,
+"ano": 2017,
+"valor": 0.15,
+"id_municipio_f": 1,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 207,
+"mes": 9,
+"ano": 2017,
+"valor": 0.89,
+"id_municipio_f": 1,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 208,
+"mes": 9,
+"ano": 2017,
+"valor": 0.01,
+"id_municipio_f": 1,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 209,
+"mes": 9,
+"ano": 2017,
+"valor": -0.05,
+"id_municipio_f": 1,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 210,
+"mes": 9,
+"ano": 2017,
+"valor": 1.1,
+"id_municipio_f": 1,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 211,
+"mes": 10,
+"ano": 2017,
+"valor": 0.24,
+"id_municipio_f": 1,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 212,
+"mes": 10,
+"ano": 2017,
+"valor": -0.37,
+"id_municipio_f": 1,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 213,
+"mes": 10,
+"ano": 2017,
+"valor": 1.9,
+"id_municipio_f": 1,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 214,
+"mes": 10,
+"ano": 2017,
+"valor": -0.09,
+"id_municipio_f": 1,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 215,
+"mes": 10,
+"ano": 2017,
+"valor": 1.1,
+"id_municipio_f": 1,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 216,
+"mes": 10,
+"ano": 2017,
+"valor": 0.02,
+"id_municipio_f": 1,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 217,
+"mes": 10,
+"ano": 2017,
+"valor": 0.18,
+"id_municipio_f": 1,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 218,
+"mes": 10,
+"ano": 2017,
+"valor": -0.22,
+"id_municipio_f": 1,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 219,
+"mes": 10,
+"ano": 2017,
+"valor": 0.25,
+"id_municipio_f": 1,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 220,
+"mes": 10,
+"ano": 2017,
+"valor": 1.1,
+"id_municipio_f": 1,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 221,
+"mes": 11,
+"ano": 2017,
+"valor": -0.02,
+"id_municipio_f": 1,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 222,
+"mes": 11,
+"ano": 2017,
+"valor": -0.55,
+"id_municipio_f": 1,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 223,
+"mes": 11,
+"ano": 2017,
+"valor": 1,
+"id_municipio_f": 1,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 224,
+"mes": 11,
+"ano": 2017,
+"valor": -0.3,
+"id_municipio_f": 1,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 225,
+"mes": 11,
+"ano": 2017,
+"valor": 0.2,
+"id_municipio_f": 1,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 226,
+"mes": 11,
+"ano": 2017,
+"valor": 0.24,
+"id_municipio_f": 1,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 227,
+"mes": 11,
+"ano": 2017,
+"valor": 0.08,
+"id_municipio_f": 1,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 228,
+"mes": 11,
+"ano": 2017,
+"valor": 0.52,
+"id_municipio_f": 1,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 229,
+"mes": 11,
+"ano": 2017,
+"valor": -0.04,
+"id_municipio_f": 1,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 230,
+"mes": 11,
+"ano": 2017,
+"valor": -0.24,
+"id_municipio_f": 1,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 231,
+"mes": 12,
+"ano": 2017,
+"valor": -0.29,
+"id_municipio_f": 1,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 232,
+"mes": 12,
+"ano": 2017,
+"valor": -0.41,
+"id_municipio_f": 1,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 233,
+"mes": 12,
+"ano": 2017,
+"valor": -1.7,
+"id_municipio_f": 1,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 234,
+"mes": 12,
+"ano": 2017,
+"valor": -0.38,
+"id_municipio_f": 1,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 235,
+"mes": 12,
+"ano": 2017,
+"valor": 0.3,
+"id_municipio_f": 1,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 236,
+"mes": 12,
+"ano": 2017,
+"valor": 0.31,
+"id_municipio_f": 1,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 237,
+"mes": 12,
+"ano": 2017,
+"valor": -0.27,
+"id_municipio_f": 1,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 238,
+"mes": 12,
+"ano": 2017,
+"valor": 0.65,
+"id_municipio_f": 1,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 239,
+"mes": 12,
+"ano": 2017,
+"valor": 0.79,
+"id_municipio_f": 1,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 240,
+"mes": 12,
+"ano": 2017,
+"valor": -0.29,
+"id_municipio_f": 1,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 241,
+"mes": 1,
+"ano": 2017,
+"valor": 0.67,
+"id_municipio_f": 4,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 242,
+"mes": 1,
+"ano": 2017,
+"valor": 0.63,
+"id_municipio_f": 4,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 243,
+"mes": 1,
+"ano": 2017,
+"valor": -0.02,
+"id_municipio_f": 4,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 244,
+"mes": 1,
+"ano": 2017,
+"valor": 0.37,
+"id_municipio_f": 4,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 245,
+"mes": 1,
+"ano": 2017,
+"valor": -0.8,
+"id_municipio_f": 4,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 246,
+"mes": 1,
+"ano": 2017,
+"valor": 4.1,
+"id_municipio_f": 4,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 247,
+"mes": 1,
+"ano": 2017,
+"valor": -0.11,
+"id_municipio_f": 4,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 248,
+"mes": 1,
+"ano": 2017,
+"valor": 0.08,
+"id_municipio_f": 4,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 249,
+"mes": 1,
+"ano": 2017,
+"valor": 0.22,
+"id_municipio_f": 4,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 250,
+"mes": 1,
+"ano": 2017,
+"valor": 0.28,
+"id_municipio_f": 4,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 251,
+"mes": 2,
+"ano": 2017,
+"valor": 0.43,
+"id_municipio_f": 4,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 252,
+"mes": 2,
+"ano": 2017,
+"valor": -0.18,
+"id_municipio_f": 4,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 253,
+"mes": 2,
+"ano": 2017,
+"valor": -0.06,
+"id_municipio_f": 4,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 254,
+"mes": 2,
+"ano": 2017,
+"valor": 0.57,
+"id_municipio_f": 4,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 255,
+"mes": 2,
+"ano": 2017,
+"valor": -0.94,
+"id_municipio_f": 4,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 256,
+"mes": 2,
+"ano": 2017,
+"valor": 3.7,
+"id_municipio_f": 4,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 257,
+"mes": 2,
+"ano": 2017,
+"valor": 0.76,
+"id_municipio_f": 4,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 258,
+"mes": 2,
+"ano": 2017,
+"valor": -0.4,
+"id_municipio_f": 4,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 259,
+"mes": 2,
+"ano": 2017,
+"valor": 1.8,
+"id_municipio_f": 4,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 260,
+"mes": 2,
+"ano": 2017,
+"valor": 0.86,
+"id_municipio_f": 4,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 261,
+"mes": 3,
+"ano": 2017,
+"valor": 0.64,
+"id_municipio_f": 4,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 262,
+"mes": 3,
+"ano": 2017,
+"valor": 0.53,
+"id_municipio_f": 4,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 263,
+"mes": 3,
+"ano": 2017,
+"valor": 1.5,
+"id_municipio_f": 4,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 264,
+"mes": 3,
+"ano": 2017,
+"valor": -0.51,
+"id_municipio_f": 4,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 265,
+"mes": 3,
+"ano": 2017,
+"valor": 0.06,
+"id_municipio_f": 4,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 266,
+"mes": 3,
+"ano": 2017,
+"valor": 0.36,
+"id_municipio_f": 4,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 267,
+"mes": 3,
+"ano": 2017,
+"valor": 0.28,
+"id_municipio_f": 4,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 268,
+"mes": 3,
+"ano": 2017,
+"valor": 0.41,
+"id_municipio_f": 4,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 269,
+"mes": 3,
+"ano": 2017,
+"valor": 4.5,
+"id_municipio_f": 4,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 270,
+"mes": 3,
+"ano": 2017,
+"valor": -0.48,
+"id_municipio_f": 4,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 271,
+"mes": 4,
+"ano": 2017,
+"valor": 0.12,
+"id_municipio_f": 4,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 272,
+"mes": 4,
+"ano": 2017,
+"valor": 0.27,
+"id_municipio_f": 4,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 273,
+"mes": 4,
+"ano": 2017,
+"valor": -1.2,
+"id_municipio_f": 4,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 274,
+"mes": 4,
+"ano": 2017,
+"valor": -0.07,
+"id_municipio_f": 4,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 275,
+"mes": 4,
+"ano": 2017,
+"valor": 0.88,
+"id_municipio_f": 4,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 276,
+"mes": 4,
+"ano": 2017,
+"valor": -0.66,
+"id_municipio_f": 4,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 277,
+"mes": 4,
+"ano": 2017,
+"valor": 1.3,
+"id_municipio_f": 4,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 278,
+"mes": 4,
+"ano": 2017,
+"valor": 0.41,
+"id_municipio_f": 4,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 279,
+"mes": 4,
+"ano": 2017,
+"valor": 0.49,
+"id_municipio_f": 4,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 280,
+"mes": 4,
+"ano": 2017,
+"valor": 2.9,
+"id_municipio_f": 4,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 281,
+"mes": 5,
+"ano": 2017,
+"valor": -0.04,
+"id_municipio_f": 4,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 282,
+"mes": 5,
+"ano": 2017,
+"valor": -1.3,
+"id_municipio_f": 4,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 283,
+"mes": 5,
+"ano": 2017,
+"valor": 1.7,
+"id_municipio_f": 4,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 284,
+"mes": 5,
+"ano": 2017,
+"valor": -0.47,
+"id_municipio_f": 4,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 285,
+"mes": 5,
+"ano": 2017,
+"valor": 0.49,
+"id_municipio_f": 4,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 286,
+"mes": 5,
+"ano": 2017,
+"valor": 1.3,
+"id_municipio_f": 4,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 287,
+"mes": 5,
+"ano": 2017,
+"valor": 0.31,
+"id_municipio_f": 4,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 288,
+"mes": 5,
+"ano": 2017,
+"valor": -0.04,
+"id_municipio_f": 4,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 289,
+"mes": 5,
+"ano": 2017,
+"valor": 0.06,
+"id_municipio_f": 4,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 290,
+"mes": 5,
+"ano": 2017,
+"valor": 0.51,
+"id_municipio_f": 4,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 291,
+"mes": 6,
+"ano": 2017,
+"valor": -0.35,
+"id_municipio_f": 4,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 292,
+"mes": 6,
+"ano": 2017,
+"valor": -0.94,
+"id_municipio_f": 4,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 293,
+"mes": 6,
+"ano": 2017,
+"valor": -0.33,
+"id_municipio_f": 4,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 294,
+"mes": 6,
+"ano": 2017,
+"valor": -0.06,
+"id_municipio_f": 4,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 295,
+"mes": 6,
+"ano": 2017,
+"valor": -0.08,
+"id_municipio_f": 4,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 296,
+"mes": 6,
+"ano": 2017,
+"valor": 0.43,
+"id_municipio_f": 4,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 297,
+"mes": 6,
+"ano": 2017,
+"valor": 0.41,
+"id_municipio_f": 4,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 298,
+"mes": 6,
+"ano": 2017,
+"valor": -0.28,
+"id_municipio_f": 4,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 299,
+"mes": 6,
+"ano": 2017,
+"valor": 0.11,
+"id_municipio_f": 4,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 300,
+"mes": 6,
+"ano": 2017,
+"valor": -0.15,
+"id_municipio_f": 4,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 301,
+"mes": 7,
+"ano": 2017,
+"valor": 0.11,
+"id_municipio_f": 4,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 302,
+"mes": 7,
+"ano": 2017,
+"valor": -0.52,
+"id_municipio_f": 4,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 303,
+"mes": 7,
+"ano": 2017,
+"valor": 2.2,
+"id_municipio_f": 4,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 304,
+"mes": 7,
+"ano": 2017,
+"valor": -0.21,
+"id_municipio_f": 4,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 305,
+"mes": 7,
+"ano": 2017,
+"valor": 0.19,
+"id_municipio_f": 4,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 306,
+"mes": 7,
+"ano": 2017,
+"valor": -0.28,
+"id_municipio_f": 4,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 307,
+"mes": 7,
+"ano": 2017,
+"valor": -0.09,
+"id_municipio_f": 4,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 308,
+"mes": 7,
+"ano": 2017,
+"valor": 0.05,
+"id_municipio_f": 4,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 309,
+"mes": 7,
+"ano": 2017,
+"valor": -0.15,
+"id_municipio_f": 4,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 310,
+"mes": 7,
+"ano": 2017,
+"valor": -0.28,
+"id_municipio_f": 4,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 311,
+"mes": 8,
+"ano": 2017,
+"valor": -0.25,
+"id_municipio_f": 4,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 312,
+"mes": 8,
+"ano": 2017,
+"valor": -0.77,
+"id_municipio_f": 4,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 313,
+"mes": 8,
+"ano": 2017,
+"valor": -0.32,
+"id_municipio_f": 4,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 314,
+"mes": 8,
+"ano": 2017,
+"valor": 0.1,
+"id_municipio_f": 4,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 315,
+"mes": 8,
+"ano": 2017,
+"valor": 0.59,
+"id_municipio_f": 4,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 316,
+"mes": 8,
+"ano": 2017,
+"valor": 0.16,
+"id_municipio_f": 4,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 317,
+"mes": 8,
+"ano": 2017,
+"valor": 0.43,
+"id_municipio_f": 4,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 318,
+"mes": 8,
+"ano": 2017,
+"valor": 0.62,
+"id_municipio_f": 4,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 319,
+"mes": 8,
+"ano": 2017,
+"valor": 0.16,
+"id_municipio_f": 4,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 320,
+"mes": 8,
+"ano": 2017,
+"valor": -2.6,
+"id_municipio_f": 4,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 321,
+"mes": 9,
+"ano": 2017,
+"valor": -0.04,
+"id_municipio_f": 4,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 322,
+"mes": 9,
+"ano": 2017,
+"valor": -0.78,
+"id_municipio_f": 4,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 323,
+"mes": 9,
+"ano": 2017,
+"valor": 0.74,
+"id_municipio_f": 4,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 324,
+"mes": 9,
+"ano": 2017,
+"valor": -0.4,
+"id_municipio_f": 4,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 325,
+"mes": 9,
+"ano": 2017,
+"valor": -0.07,
+"id_municipio_f": 4,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 326,
+"mes": 9,
+"ano": 2017,
+"valor": 0.82,
+"id_municipio_f": 4,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 327,
+"mes": 9,
+"ano": 2017,
+"valor": 0.31,
+"id_municipio_f": 4,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 328,
+"mes": 9,
+"ano": 2017,
+"valor": 0.21,
+"id_municipio_f": 4,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 329,
+"mes": 9,
+"ano": 2017,
+"valor": 0.29,
+"id_municipio_f": 4,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 330,
+"mes": 9,
+"ano": 2017,
+"valor": 0.01,
+"id_municipio_f": 4,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 331,
+"mes": 10,
+"ano": 2017,
+"valor": 0.43,
+"id_municipio_f": 4,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 332,
+"mes": 10,
+"ano": 2017,
+"valor": -0.01,
+"id_municipio_f": 4,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 333,
+"mes": 10,
+"ano": 2017,
+"valor": 1.7,
+"id_municipio_f": 4,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 334,
+"mes": 10,
+"ano": 2017,
+"valor": 0.11,
+"id_municipio_f": 4,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 335,
+"mes": 10,
+"ano": 2017,
+"valor": 1.5,
+"id_municipio_f": 4,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 336,
+"mes": 10,
+"ano": 2017,
+"valor": 0.26,
+"id_municipio_f": 4,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 337,
+"mes": 10,
+"ano": 2017,
+"valor": 0.62,
+"id_municipio_f": 4,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 338,
+"mes": 10,
+"ano": 2017,
+"valor": -0.62,
+"id_municipio_f": 4,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 339,
+"mes": 10,
+"ano": 2017,
+"valor": -0.08,
+"id_municipio_f": 4,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 340,
+"mes": 10,
+"ano": 2017,
+"valor": -0.02,
+"id_municipio_f": 4,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 341,
+"mes": 11,
+"ano": 2017,
+"valor": -0.29,
+"id_municipio_f": 4,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 342,
+"mes": 11,
+"ano": 2017,
+"valor": -1,
+"id_municipio_f": 4,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 343,
+"mes": 11,
+"ano": 2017,
+"valor": 0.35,
+"id_municipio_f": 4,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 344,
+"mes": 11,
+"ano": 2017,
+"valor": -0.66,
+"id_municipio_f": 4,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 345,
+"mes": 11,
+"ano": 2017,
+"valor": 0.74,
+"id_municipio_f": 4,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 346,
+"mes": 11,
+"ano": 2017,
+"valor": 0.07,
+"id_municipio_f": 4,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 347,
+"mes": 11,
+"ano": 2017,
+"valor": 0,
+"id_municipio_f": 4,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 348,
+"mes": 11,
+"ano": 2017,
+"valor": -0.05,
+"id_municipio_f": 4,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 349,
+"mes": 11,
+"ano": 2017,
+"valor": 0.1,
+"id_municipio_f": 4,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 350,
+"mes": 11,
+"ano": 2017,
+"valor": -0.36,
+"id_municipio_f": 4,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 351,
+"mes": 12,
+"ano": 2017,
+"valor": 0.48,
+"id_municipio_f": 4,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 352,
+"mes": 12,
+"ano": 2017,
+"valor": 0.58,
+"id_municipio_f": 4,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 353,
+"mes": 12,
+"ano": 2017,
+"valor": 0.45,
+"id_municipio_f": 4,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 354,
+"mes": 12,
+"ano": 2017,
+"valor": 0.34,
+"id_municipio_f": 4,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 355,
+"mes": 12,
+"ano": 2017,
+"valor": 1,
+"id_municipio_f": 4,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 356,
+"mes": 12,
+"ano": 2017,
+"valor": 0.42,
+"id_municipio_f": 4,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 357,
+"mes": 12,
+"ano": 2017,
+"valor": 0.32,
+"id_municipio_f": 4,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 358,
+"mes": 12,
+"ano": 2017,
+"valor": 0.22,
+"id_municipio_f": 4,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 359,
+"mes": 12,
+"ano": 2017,
+"valor": 0.18,
+"id_municipio_f": 4,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 360,
+"mes": 12,
+"ano": 2017,
+"valor": -0.06,
+"id_municipio_f": 4,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 361,
+"mes": 1,
+"ano": 2017,
+"valor": 0.38,
+"id_municipio_f": 7,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 362,
+"mes": 1,
+"ano": 2017,
+"valor": 0.42,
+"id_municipio_f": 7,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 363,
+"mes": 1,
+"ano": 2017,
+"valor": -0.08,
+"id_municipio_f": 7,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 364,
+"mes": 1,
+"ano": 2017,
+"valor": -0.54,
+"id_municipio_f": 7,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 365,
+"mes": 1,
+"ano": 2017,
+"valor": -0.46,
+"id_municipio_f": 7,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 366,
+"mes": 1,
+"ano": 2017,
+"valor": 2.3,
+"id_municipio_f": 7,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 367,
+"mes": 1,
+"ano": 2017,
+"valor": 0.04,
+"id_municipio_f": 7,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 368,
+"mes": 1,
+"ano": 2017,
+"valor": -0.22,
+"id_municipio_f": 7,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 369,
+"mes": 1,
+"ano": 2017,
+"valor": 0.33,
+"id_municipio_f": 7,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 370,
+"mes": 1,
+"ano": 2017,
+"valor": 1.3,
+"id_municipio_f": 7,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 371,
+"mes": 2,
+"ano": 2017,
+"valor": 0.29,
+"id_municipio_f": 7,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 372,
+"mes": 2,
+"ano": 2017,
+"valor": -0.96,
+"id_municipio_f": 7,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 373,
+"mes": 2,
+"ano": 2017,
+"valor": -0.52,
+"id_municipio_f": 7,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 374,
+"mes": 2,
+"ano": 2017,
+"valor": 0.12,
+"id_municipio_f": 7,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 375,
+"mes": 2,
+"ano": 2017,
+"valor": -0.43,
+"id_municipio_f": 7,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 376,
+"mes": 2,
+"ano": 2017,
+"valor": 1.8,
+"id_municipio_f": 7,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 377,
+"mes": 2,
+"ano": 2017,
+"valor": 1,
+"id_municipio_f": 7,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 378,
+"mes": 2,
+"ano": 2017,
+"valor": 0.66,
+"id_municipio_f": 7,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 379,
+"mes": 2,
+"ano": 2017,
+"valor": 7.3,
+"id_municipio_f": 7,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 380,
+"mes": 2,
+"ano": 2017,
+"valor": 0.93,
+"id_municipio_f": 7,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 381,
+"mes": 3,
+"ano": 2017,
+"valor": 0.53,
+"id_municipio_f": 7,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 382,
+"mes": 3,
+"ano": 2017,
+"valor": 0.99,
+"id_municipio_f": 7,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 383,
+"mes": 3,
+"ano": 2017,
+"valor": 0.99,
+"id_municipio_f": 7,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 384,
+"mes": 3,
+"ano": 2017,
+"valor": -0.1,
+"id_municipio_f": 7,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 385,
+"mes": 3,
+"ano": 2017,
+"valor": -0.49,
+"id_municipio_f": 7,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 386,
+"mes": 3,
+"ano": 2017,
+"valor": 0.3,
+"id_municipio_f": 7,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 387,
+"mes": 3,
+"ano": 2017,
+"valor": 0.67,
+"id_municipio_f": 7,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 388,
+"mes": 3,
+"ano": 2017,
+"valor": 0.38,
+"id_municipio_f": 7,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 389,
+"mes": 3,
+"ano": 2017,
+"valor": -0.16,
+"id_municipio_f": 7,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 390,
+"mes": 3,
+"ano": 2017,
+"valor": -0.41,
+"id_municipio_f": 7,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 391,
+"mes": 4,
+"ano": 2017,
+"valor": 0.6,
+"id_municipio_f": 7,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 392,
+"mes": 4,
+"ano": 2017,
+"valor": 0.24,
+"id_municipio_f": 7,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 393,
+"mes": 4,
+"ano": 2017,
+"valor": -0.13,
+"id_municipio_f": 7,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 394,
+"mes": 4,
+"ano": 2017,
+"valor": -0.67,
+"id_municipio_f": 7,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 395,
+"mes": 4,
+"ano": 2017,
+"valor": 0.11,
+"id_municipio_f": 7,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 396,
+"mes": 4,
+"ano": 2017,
+"valor": 3.2,
+"id_municipio_f": 7,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 397,
+"mes": 4,
+"ano": 2017,
+"valor": 0.46,
+"id_municipio_f": 7,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 398,
+"mes": 4,
+"ano": 2017,
+"valor": 0.22,
+"id_municipio_f": 7,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 399,
+"mes": 4,
+"ano": 2017,
+"valor": 0.02,
+"id_municipio_f": 7,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 400,
+"mes": 4,
+"ano": 2017,
+"valor": 3,
+"id_municipio_f": 7,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 401,
+"mes": 5,
+"ano": 2017,
+"valor": 0.61,
+"id_municipio_f": 7,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 402,
+"mes": 5,
+"ano": 2017,
+"valor": -0.21,
+"id_municipio_f": 7,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 403,
+"mes": 5,
+"ano": 2017,
+"valor": 4,
+"id_municipio_f": 7,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 404,
+"mes": 5,
+"ano": 2017,
+"valor": -0.63,
+"id_municipio_f": 7,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 405,
+"mes": 5,
+"ano": 2017,
+"valor": 1.2,
+"id_municipio_f": 7,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 406,
+"mes": 5,
+"ano": 2017,
+"valor": -0.16,
+"id_municipio_f": 7,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 407,
+"mes": 5,
+"ano": 2017,
+"valor": 0.59,
+"id_municipio_f": 7,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 408,
+"mes": 5,
+"ano": 2017,
+"valor": -0.36,
+"id_municipio_f": 7,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 409,
+"mes": 5,
+"ano": 2017,
+"valor": 0.07,
+"id_municipio_f": 7,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 410,
+"mes": 5,
+"ano": 2017,
+"valor": -0.28,
+"id_municipio_f": 7,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 411,
+"mes": 6,
+"ano": 2017,
+"valor": -0.26,
+"id_municipio_f": 7,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 412,
+"mes": 6,
+"ano": 2017,
+"valor": -0.82,
+"id_municipio_f": 7,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 413,
+"mes": 6,
+"ano": 2017,
+"valor": -0.22,
+"id_municipio_f": 7,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 414,
+"mes": 6,
+"ano": 2017,
+"valor": 0.16,
+"id_municipio_f": 7,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 415,
+"mes": 6,
+"ano": 2017,
+"valor": 1.2,
+"id_municipio_f": 7,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 416,
+"mes": 6,
+"ano": 2017,
+"valor": -1.2,
+"id_municipio_f": 7,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 417,
+"mes": 6,
+"ano": 2017,
+"valor": 0.17,
+"id_municipio_f": 7,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 418,
+"mes": 6,
+"ano": 2017,
+"valor": 0.83,
+"id_municipio_f": 7,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 419,
+"mes": 6,
+"ano": 2017,
+"valor": -0.09,
+"id_municipio_f": 7,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 420,
+"mes": 6,
+"ano": 2017,
+"valor": -0.09,
+"id_municipio_f": 7,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 421,
+"mes": 7,
+"ano": 2017,
+"valor": 0.32,
+"id_municipio_f": 7,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 422,
+"mes": 7,
+"ano": 2017,
+"valor": -0.06,
+"id_municipio_f": 7,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 423,
+"mes": 7,
+"ano": 2017,
+"valor": 1.4,
+"id_municipio_f": 7,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 424,
+"mes": 7,
+"ano": 2017,
+"valor": -0.44,
+"id_municipio_f": 7,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 425,
+"mes": 7,
+"ano": 2017,
+"valor": -0.12,
+"id_municipio_f": 7,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 426,
+"mes": 7,
+"ano": 2017,
+"valor": 0.55,
+"id_municipio_f": 7,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 427,
+"mes": 7,
+"ano": 2017,
+"valor": 0.38,
+"id_municipio_f": 7,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 428,
+"mes": 7,
+"ano": 2017,
+"valor": 0.69,
+"id_municipio_f": 7,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 429,
+"mes": 7,
+"ano": 2017,
+"valor": -0.14,
+"id_municipio_f": 7,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 430,
+"mes": 7,
+"ano": 2017,
+"valor": 0.28,
+"id_municipio_f": 7,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 431,
+"mes": 8,
+"ano": 2017,
+"valor": -0.16,
+"id_municipio_f": 7,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 432,
+"mes": 8,
+"ano": 2017,
+"valor": -0.97,
+"id_municipio_f": 7,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 433,
+"mes": 8,
+"ano": 2017,
+"valor": -0.83,
+"id_municipio_f": 7,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 434,
+"mes": 8,
+"ano": 2017,
+"valor": 0.25,
+"id_municipio_f": 7,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 435,
+"mes": 8,
+"ano": 2017,
+"valor": 0.69,
+"id_municipio_f": 7,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 436,
+"mes": 8,
+"ano": 2017,
+"valor": 2.2,
+"id_municipio_f": 7,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 437,
+"mes": 8,
+"ano": 2017,
+"valor": -0.02,
+"id_municipio_f": 7,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 438,
+"mes": 8,
+"ano": 2017,
+"valor": -0.26,
+"id_municipio_f": 7,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 439,
+"mes": 8,
+"ano": 2017,
+"valor": 0.25,
+"id_municipio_f": 7,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 440,
+"mes": 8,
+"ano": 2017,
+"valor": -2.6,
+"id_municipio_f": 7,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 441,
+"mes": 9,
+"ano": 2017,
+"valor": -0.28,
+"id_municipio_f": 7,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 442,
+"mes": 9,
+"ano": 2017,
+"valor": -1.2,
+"id_municipio_f": 7,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 443,
+"mes": 9,
+"ano": 2017,
+"valor": 1,
+"id_municipio_f": 7,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 444,
+"mes": 9,
+"ano": 2017,
+"valor": -0.48,
+"id_municipio_f": 7,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 445,
+"mes": 9,
+"ano": 2017,
+"valor": 0.11,
+"id_municipio_f": 7,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 446,
+"mes": 9,
+"ano": 2017,
+"valor": -0.49,
+"id_municipio_f": 7,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 447,
+"mes": 9,
+"ano": 2017,
+"valor": -0.12,
+"id_municipio_f": 7,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 448,
+"mes": 9,
+"ano": 2017,
+"valor": 0.29,
+"id_municipio_f": 7,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 449,
+"mes": 9,
+"ano": 2017,
+"valor": 0.09,
+"id_municipio_f": 7,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 450,
+"mes": 9,
+"ano": 2017,
+"valor": 0.26,
+"id_municipio_f": 7,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 451,
+"mes": 10,
+"ano": 2017,
+"valor": 0.05,
+"id_municipio_f": 7,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 452,
+"mes": 10,
+"ano": 2017,
+"valor": -0.77,
+"id_municipio_f": 7,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 453,
+"mes": 10,
+"ano": 2017,
+"valor": 2,
+"id_municipio_f": 7,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 454,
+"mes": 10,
+"ano": 2017,
+"valor": -0.41,
+"id_municipio_f": 7,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 455,
+"mes": 10,
+"ano": 2017,
+"valor": 0.65,
+"id_municipio_f": 7,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 456,
+"mes": 10,
+"ano": 2017,
+"valor": -0.83,
+"id_municipio_f": 7,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 457,
+"mes": 10,
+"ano": 2017,
+"valor": 0.22,
+"id_municipio_f": 7,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 458,
+"mes": 10,
+"ano": 2017,
+"valor": 0.55,
+"id_municipio_f": 7,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 459,
+"mes": 10,
+"ano": 2017,
+"valor": 0.02,
+"id_municipio_f": 7,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 460,
+"mes": 10,
+"ano": 2017,
+"valor": -0.06,
+"id_municipio_f": 7,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 461,
+"mes": 11,
+"ano": 2017,
+"valor": 0.06,
+"id_municipio_f": 7,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 462,
+"mes": 11,
+"ano": 2017,
+"valor": -0.48,
+"id_municipio_f": 7,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 463,
+"mes": 11,
+"ano": 2017,
+"valor": 0.87,
+"id_municipio_f": 7,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 464,
+"mes": 11,
+"ano": 2017,
+"valor": -0.67,
+"id_municipio_f": 7,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 465,
+"mes": 11,
+"ano": 2017,
+"valor": 0.09,
+"id_municipio_f": 7,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 466,
+"mes": 11,
+"ano": 2017,
+"valor": 0.21,
+"id_municipio_f": 7,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 467,
+"mes": 11,
+"ano": 2017,
+"valor": 0.34,
+"id_municipio_f": 7,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 468,
+"mes": 11,
+"ano": 2017,
+"valor": 0.64,
+"id_municipio_f": 7,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 469,
+"mes": 11,
+"ano": 2017,
+"valor": -0.08,
+"id_municipio_f": 7,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 470,
+"mes": 11,
+"ano": 2017,
+"valor": -0.29,
+"id_municipio_f": 7,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 471,
+"mes": 12,
+"ano": 2017,
+"valor": 0.46,
+"id_municipio_f": 7,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 472,
+"mes": 12,
+"ano": 2017,
+"valor": 0.59,
+"id_municipio_f": 7,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 473,
+"mes": 12,
+"ano": 2017,
+"valor": 0.02,
+"id_municipio_f": 7,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 474,
+"mes": 12,
+"ano": 2017,
+"valor": -0.65,
+"id_municipio_f": 7,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 475,
+"mes": 12,
+"ano": 2017,
+"valor": 0.67,
+"id_municipio_f": 7,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 476,
+"mes": 12,
+"ano": 2017,
+"valor": 1.6,
+"id_municipio_f": 7,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 477,
+"mes": 12,
+"ano": 2017,
+"valor": -0.01,
+"id_municipio_f": 7,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 478,
+"mes": 12,
+"ano": 2017,
+"valor": 0.26,
+"id_municipio_f": 7,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 479,
+"mes": 12,
+"ano": 2017,
+"valor": 0.19,
+"id_municipio_f": 7,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 480,
+"mes": 12,
+"ano": 2017,
+"valor": 0.21,
+"id_municipio_f": 7,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 481,
+"mes": 1,
+"ano": 2017,
+"valor": 0.88,
+"id_municipio_f": 9,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 482,
+"mes": 1,
+"ano": 2017,
+"valor": 1.5,
+"id_municipio_f": 9,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 483,
+"mes": 1,
+"ano": 2017,
+"valor": 0.05,
+"id_municipio_f": 9,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 484,
+"mes": 1,
+"ano": 2017,
+"valor": -1.2,
+"id_municipio_f": 9,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 485,
+"mes": 1,
+"ano": 2017,
+"valor": -0.82,
+"id_municipio_f": 9,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 486,
+"mes": 1,
+"ano": 2017,
+"valor": 2.9,
+"id_municipio_f": 9,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 487,
+"mes": 1,
+"ano": 2017,
+"valor": 0.08,
+"id_municipio_f": 9,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 488,
+"mes": 1,
+"ano": 2017,
+"valor": 0.7,
+"id_municipio_f": 9,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 489,
+"mes": 1,
+"ano": 2017,
+"valor": 0.38,
+"id_municipio_f": 9,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 490,
+"mes": 1,
+"ano": 2017,
+"valor": 0.35,
+"id_municipio_f": 9,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 491,
+"mes": 2,
+"ano": 2017,
+"valor": 0.29,
+"id_municipio_f": 9,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 492,
+"mes": 2,
+"ano": 2017,
+"valor": -0.95,
+"id_municipio_f": 9,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 493,
+"mes": 2,
+"ano": 2017,
+"valor": 0.08,
+"id_municipio_f": 9,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 494,
+"mes": 2,
+"ano": 2017,
+"valor": 1.3,
+"id_municipio_f": 9,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 495,
+"mes": 2,
+"ano": 2017,
+"valor": 0.24,
+"id_municipio_f": 9,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 496,
+"mes": 2,
+"ano": 2017,
+"valor": 1.9,
+"id_municipio_f": 9,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 497,
+"mes": 2,
+"ano": 2017,
+"valor": 0.28,
+"id_municipio_f": 9,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 498,
+"mes": 2,
+"ano": 2017,
+"valor": -0.22,
+"id_municipio_f": 9,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 499,
+"mes": 2,
+"ano": 2017,
+"valor": 6.8,
+"id_municipio_f": 9,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 500,
+"mes": 2,
+"ano": 2017,
+"valor": 0.23,
+"id_municipio_f": 9,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 501,
+"mes": 3,
+"ano": 2017,
+"valor": 0.14,
+"id_municipio_f": 9,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 502,
+"mes": 3,
+"ano": 2017,
+"valor": 0.13,
+"id_municipio_f": 9,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 503,
+"mes": 3,
+"ano": 2017,
+"valor": 1.2,
+"id_municipio_f": 9,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 504,
+"mes": 3,
+"ano": 2017,
+"valor": -0.82,
+"id_municipio_f": 9,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 505,
+"mes": 3,
+"ano": 2017,
+"valor": -0.19,
+"id_municipio_f": 9,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 506,
+"mes": 3,
+"ano": 2017,
+"valor": -0.49,
+"id_municipio_f": 9,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 507,
+"mes": 3,
+"ano": 2017,
+"valor": 0.37,
+"id_municipio_f": 9,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 508,
+"mes": 3,
+"ano": 2017,
+"valor": 0.3,
+"id_municipio_f": 9,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 509,
+"mes": 3,
+"ano": 2017,
+"valor": 0.22,
+"id_municipio_f": 9,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 510,
+"mes": 3,
+"ano": 2017,
+"valor": -0.54,
+"id_municipio_f": 9,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 511,
+"mes": 4,
+"ano": 2017,
+"valor": -0.2,
+"id_municipio_f": 9,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 512,
+"mes": 4,
+"ano": 2017,
+"valor": 0.15,
+"id_municipio_f": 9,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 513,
+"mes": 4,
+"ano": 2017,
+"valor": -0.99,
+"id_municipio_f": 9,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 514,
+"mes": 4,
+"ano": 2017,
+"valor": -0.42,
+"id_municipio_f": 9,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 515,
+"mes": 4,
+"ano": 2017,
+"valor": -0.44,
+"id_municipio_f": 9,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 516,
+"mes": 4,
+"ano": 2017,
+"valor": -0.64,
+"id_municipio_f": 9,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 517,
+"mes": 4,
+"ano": 2017,
+"valor": 0.68,
+"id_municipio_f": 9,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 518,
+"mes": 4,
+"ano": 2017,
+"valor": -0.31,
+"id_municipio_f": 9,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 519,
+"mes": 4,
+"ano": 2017,
+"valor": -0.15,
+"id_municipio_f": 9,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 520,
+"mes": 4,
+"ano": 2017,
+"valor": -0.03,
+"id_municipio_f": 9,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 521,
+"mes": 5,
+"ano": 2017,
+"valor": 0.29,
+"id_municipio_f": 9,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 522,
+"mes": 5,
+"ano": 2017,
+"valor": -0.79,
+"id_municipio_f": 9,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 523,
+"mes": 5,
+"ano": 2017,
+"valor": 2.6,
+"id_municipio_f": 9,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 524,
+"mes": 5,
+"ano": 2017,
+"valor": -0.22,
+"id_municipio_f": 9,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 525,
+"mes": 5,
+"ano": 2017,
+"valor": 0.85,
+"id_municipio_f": 9,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 526,
+"mes": 5,
+"ano": 2017,
+"valor": -0.03,
+"id_municipio_f": 9,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 527,
+"mes": 5,
+"ano": 2017,
+"valor": 0.7,
+"id_municipio_f": 9,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 528,
+"mes": 5,
+"ano": 2017,
+"valor": 0.82,
+"id_municipio_f": 9,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 529,
+"mes": 5,
+"ano": 2017,
+"valor": 0.07,
+"id_municipio_f": 9,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 530,
+"mes": 5,
+"ano": 2017,
+"valor": 0.39,
+"id_municipio_f": 9,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 531,
+"mes": 6,
+"ano": 2017,
+"valor": 0.09,
+"id_municipio_f": 9,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 532,
+"mes": 6,
+"ano": 2017,
+"valor": -0.08,
+"id_municipio_f": 9,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 533,
+"mes": 6,
+"ano": 2017,
+"valor": 1.8,
+"id_municipio_f": 9,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 534,
+"mes": 6,
+"ano": 2017,
+"valor": -0.17,
+"id_municipio_f": 9,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 535,
+"mes": 6,
+"ano": 2017,
+"valor": 0.85,
+"id_municipio_f": 9,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 536,
+"mes": 6,
+"ano": 2017,
+"valor": -1.5,
+"id_municipio_f": 9,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 537,
+"mes": 6,
+"ano": 2017,
+"valor": 0.11,
+"id_municipio_f": 9,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 538,
+"mes": 6,
+"ano": 2017,
+"valor": 0.27,
+"id_municipio_f": 9,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 539,
+"mes": 6,
+"ano": 2017,
+"valor": -0.13,
+"id_municipio_f": 9,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 540,
+"mes": 6,
+"ano": 2017,
+"valor": -0.27,
+"id_municipio_f": 9,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 541,
+"mes": 7,
+"ano": 2017,
+"valor": 0.36,
+"id_municipio_f": 9,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 542,
+"mes": 7,
+"ano": 2017,
+"valor": 0.3,
+"id_municipio_f": 9,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 543,
+"mes": 7,
+"ano": 2017,
+"valor": 1.2,
+"id_municipio_f": 9,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 544,
+"mes": 7,
+"ano": 2017,
+"valor": -0.65,
+"id_municipio_f": 9,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 545,
+"mes": 7,
+"ano": 2017,
+"valor": -0.3,
+"id_municipio_f": 9,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 546,
+"mes": 7,
+"ano": 2017,
+"valor": 0.63,
+"id_municipio_f": 9,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 547,
+"mes": 7,
+"ano": 2017,
+"valor": 0.23,
+"id_municipio_f": 9,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 548,
+"mes": 7,
+"ano": 2017,
+"valor": 0.33,
+"id_municipio_f": 9,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 549,
+"mes": 7,
+"ano": 2017,
+"valor": 0.33,
+"id_municipio_f": 9,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 550,
+"mes": 7,
+"ano": 2017,
+"valor": -0.3,
+"id_municipio_f": 9,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 551,
+"mes": 8,
+"ano": 2017,
+"valor": -0.2,
+"id_municipio_f": 9,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 552,
+"mes": 8,
+"ano": 2017,
+"valor": -0.27,
+"id_municipio_f": 9,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 553,
+"mes": 8,
+"ano": 2017,
+"valor": -1.6,
+"id_municipio_f": 9,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 554,
+"mes": 8,
+"ano": 2017,
+"valor": -0.49,
+"id_municipio_f": 9,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 555,
+"mes": 8,
+"ano": 2017,
+"valor": 0.93,
+"id_municipio_f": 9,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 556,
+"mes": 8,
+"ano": 2017,
+"valor": 0.32,
+"id_municipio_f": 9,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 557,
+"mes": 8,
+"ano": 2017,
+"valor": -0.2,
+"id_municipio_f": 9,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 558,
+"mes": 8,
+"ano": 2017,
+"valor": 0.45,
+"id_municipio_f": 9,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 559,
+"mes": 8,
+"ano": 2017,
+"valor": 0.43,
+"id_municipio_f": 9,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 560,
+"mes": 8,
+"ano": 2017,
+"valor": 0,
+"id_municipio_f": 9,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 561,
+"mes": 9,
+"ano": 2017,
+"valor": 0.09,
+"id_municipio_f": 9,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 562,
+"mes": 9,
+"ano": 2017,
+"valor": -1.1,
+"id_municipio_f": 9,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 563,
+"mes": 9,
+"ano": 2017,
+"valor": 1.2,
+"id_municipio_f": 9,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 564,
+"mes": 9,
+"ano": 2017,
+"valor": 0.17,
+"id_municipio_f": 9,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 565,
+"mes": 9,
+"ano": 2017,
+"valor": 0.2,
+"id_municipio_f": 9,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 566,
+"mes": 9,
+"ano": 2017,
+"valor": 0.89,
+"id_municipio_f": 9,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 567,
+"mes": 9,
+"ano": 2017,
+"valor": 0.8,
+"id_municipio_f": 9,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 568,
+"mes": 9,
+"ano": 2017,
+"valor": 0.45,
+"id_municipio_f": 9,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 569,
+"mes": 9,
+"ano": 2017,
+"valor": 0.17,
+"id_municipio_f": 9,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 570,
+"mes": 9,
+"ano": 2017,
+"valor": 0.76,
+"id_municipio_f": 9,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 571,
+"mes": 10,
+"ano": 2017,
+"valor": 0.41,
+"id_municipio_f": 9,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 572,
+"mes": 10,
+"ano": 2017,
+"valor": 0.32,
+"id_municipio_f": 9,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 573,
+"mes": 10,
+"ano": 2017,
+"valor": 1.6,
+"id_municipio_f": 9,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 574,
+"mes": 10,
+"ano": 2017,
+"valor": -0.89,
+"id_municipio_f": 9,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 575,
+"mes": 10,
+"ano": 2017,
+"valor": 0.03,
+"id_municipio_f": 9,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 576,
+"mes": 10,
+"ano": 2017,
+"valor": 0.36,
+"id_municipio_f": 9,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 577,
+"mes": 10,
+"ano": 2017,
+"valor": 0.1,
+"id_municipio_f": 9,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 578,
+"mes": 10,
+"ano": 2017,
+"valor": 0.31,
+"id_municipio_f": 9,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 579,
+"mes": 10,
+"ano": 2017,
+"valor": 0.05,
+"id_municipio_f": 9,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 580,
+"mes": 10,
+"ano": 2017,
+"valor": 0.73,
+"id_municipio_f": 9,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 581,
+"mes": 11,
+"ano": 2017,
+"valor": -0.36,
+"id_municipio_f": 9,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 582,
+"mes": 11,
+"ano": 2017,
+"valor": -1.6,
+"id_municipio_f": 9,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 583,
+"mes": 11,
+"ano": 2017,
+"valor": 0.54,
+"id_municipio_f": 9,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 584,
+"mes": 11,
+"ano": 2017,
+"valor": -0.3,
+"id_municipio_f": 9,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 585,
+"mes": 11,
+"ano": 2017,
+"valor": 0.7,
+"id_municipio_f": 9,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 586,
+"mes": 11,
+"ano": 2017,
+"valor": 0.05,
+"id_municipio_f": 9,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 587,
+"mes": 11,
+"ano": 2017,
+"valor": 0.3,
+"id_municipio_f": 9,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 588,
+"mes": 11,
+"ano": 2017,
+"valor": 0.48,
+"id_municipio_f": 9,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 589,
+"mes": 11,
+"ano": 2017,
+"valor": 0.05,
+"id_municipio_f": 9,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 590,
+"mes": 11,
+"ano": 2017,
+"valor": -0.21,
+"id_municipio_f": 9,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 591,
+"mes": 12,
+"ano": 2017,
+"valor": 0.05,
+"id_municipio_f": 9,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 592,
+"mes": 12,
+"ano": 2017,
+"valor": 0.01,
+"id_municipio_f": 9,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 593,
+"mes": 12,
+"ano": 2017,
+"valor": -1.1,
+"id_municipio_f": 9,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 594,
+"mes": 12,
+"ano": 2017,
+"valor": 0.28,
+"id_municipio_f": 9,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 595,
+"mes": 12,
+"ano": 2017,
+"valor": 1.2,
+"id_municipio_f": 9,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 596,
+"mes": 12,
+"ano": 2017,
+"valor": 0.35,
+"id_municipio_f": 9,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 597,
+"mes": 12,
+"ano": 2017,
+"valor": 0.24,
+"id_municipio_f": 9,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 598,
+"mes": 12,
+"ano": 2017,
+"valor": 0.22,
+"id_municipio_f": 9,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 599,
+"mes": 12,
+"ano": 2017,
+"valor": 0.33,
+"id_municipio_f": 9,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 600,
+"mes": 12,
+"ano": 2017,
+"valor": -0.31,
+"id_municipio_f": 9,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 601,
+"mes": 1,
+"ano": 2017,
+"valor": 0.73,
+"id_municipio_f": 2,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 602,
+"mes": 1,
+"ano": 2017,
+"valor": 0.2,
+"id_municipio_f": 2,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 603,
+"mes": 1,
+"ano": 2017,
+"valor": 0.58,
+"id_municipio_f": 2,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 604,
+"mes": 1,
+"ano": 2017,
+"valor": 0.1,
+"id_municipio_f": 2,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 605,
+"mes": 1,
+"ano": 2017,
+"valor": -0.36,
+"id_municipio_f": 2,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 606,
+"mes": 1,
+"ano": 2017,
+"valor": 3.2,
+"id_municipio_f": 2,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 607,
+"mes": 1,
+"ano": 2017,
+"valor": 0.58,
+"id_municipio_f": 2,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 608,
+"mes": 1,
+"ano": 2017,
+"valor": 0.07,
+"id_municipio_f": 2,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 609,
+"mes": 1,
+"ano": 2017,
+"valor": -0.02,
+"id_municipio_f": 2,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 610,
+"mes": 1,
+"ano": 2017,
+"valor": 0.65,
+"id_municipio_f": 2,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 611,
+"mes": 2,
+"ano": 2017,
+"valor": 0.11,
+"id_municipio_f": 2,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 612,
+"mes": 2,
+"ano": 2017,
+"valor": -0.31,
+"id_municipio_f": 2,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 613,
+"mes": 2,
+"ano": 2017,
+"valor": 0.11,
+"id_municipio_f": 2,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 614,
+"mes": 2,
+"ano": 2017,
+"valor": -0.81,
+"id_municipio_f": 2,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 615,
+"mes": 2,
+"ano": 2017,
+"valor": -0.05,
+"id_municipio_f": 2,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 616,
+"mes": 2,
+"ano": 2017,
+"valor": 0.08,
+"id_municipio_f": 2,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 617,
+"mes": 2,
+"ano": 2017,
+"valor": 0.22,
+"id_municipio_f": 2,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 618,
+"mes": 2,
+"ano": 2017,
+"valor": 0.19,
+"id_municipio_f": 2,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 619,
+"mes": 2,
+"ano": 2017,
+"valor": 5.4,
+"id_municipio_f": 2,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 620,
+"mes": 2,
+"ano": 2017,
+"valor": 0.64,
+"id_municipio_f": 2,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 621,
+"mes": 3,
+"ano": 2017,
+"valor": 0.08,
+"id_municipio_f": 2,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 622,
+"mes": 3,
+"ano": 2017,
+"valor": -0.27,
+"id_municipio_f": 2,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 623,
+"mes": 3,
+"ano": 2017,
+"valor": 1.3,
+"id_municipio_f": 2,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 624,
+"mes": 3,
+"ano": 2017,
+"valor": 0.26,
+"id_municipio_f": 2,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 625,
+"mes": 3,
+"ano": 2017,
+"valor": -0.54,
+"id_municipio_f": 2,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 626,
+"mes": 3,
+"ano": 2017,
+"valor": -0.74,
+"id_municipio_f": 2,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 627,
+"mes": 3,
+"ano": 2017,
+"valor": 0.38,
+"id_municipio_f": 2,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 628,
+"mes": 3,
+"ano": 2017,
+"valor": 0.28,
+"id_municipio_f": 2,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 629,
+"mes": 3,
+"ano": 2017,
+"valor": 0.3,
+"id_municipio_f": 2,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 630,
+"mes": 3,
+"ano": 2017,
+"valor": -0.97,
+"id_municipio_f": 2,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 631,
+"mes": 4,
+"ano": 2017,
+"valor": -0.15,
+"id_municipio_f": 2,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 632,
+"mes": 4,
+"ano": 2017,
+"valor": 0.35,
+"id_municipio_f": 2,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 633,
+"mes": 4,
+"ano": 2017,
+"valor": -1.4,
+"id_municipio_f": 2,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 634,
+"mes": 4,
+"ano": 2017,
+"valor": -0.42,
+"id_municipio_f": 2,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 635,
+"mes": 4,
+"ano": 2017,
+"valor": 0.29,
+"id_municipio_f": 2,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 636,
+"mes": 4,
+"ano": 2017,
+"valor": -0.41,
+"id_municipio_f": 2,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 637,
+"mes": 4,
+"ano": 2017,
+"valor": 0.51,
+"id_municipio_f": 2,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 638,
+"mes": 4,
+"ano": 2017,
+"valor": 0.39,
+"id_municipio_f": 2,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 639,
+"mes": 4,
+"ano": 2017,
+"valor": 0.03,
+"id_municipio_f": 2,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 640,
+"mes": 4,
+"ano": 2017,
+"valor": 0.47,
+"id_municipio_f": 2,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 641,
+"mes": 5,
+"ano": 2017,
+"valor": 0.24,
+"id_municipio_f": 2,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 642,
+"mes": 5,
+"ano": 2017,
+"valor": -0.1,
+"id_municipio_f": 2,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 643,
+"mes": 5,
+"ano": 2017,
+"valor": 1.2,
+"id_municipio_f": 2,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 644,
+"mes": 5,
+"ano": 2017,
+"valor": 0,
+"id_municipio_f": 2,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 645,
+"mes": 5,
+"ano": 2017,
+"valor": 0.83,
+"id_municipio_f": 2,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 646,
+"mes": 5,
+"ano": 2017,
+"valor": -0.25,
+"id_municipio_f": 2,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 647,
+"mes": 5,
+"ano": 2017,
+"valor": 0.3,
+"id_municipio_f": 2,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 648,
+"mes": 5,
+"ano": 2017,
+"valor": -0.24,
+"id_municipio_f": 2,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 649,
+"mes": 5,
+"ano": 2017,
+"valor": 0.01,
+"id_municipio_f": 2,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 650,
+"mes": 5,
+"ano": 2017,
+"valor": -0.16,
+"id_municipio_f": 2,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 651,
+"mes": 6,
+"ano": 2017,
+"valor": -0.64,
+"id_municipio_f": 2,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 652,
+"mes": 6,
+"ano": 2017,
+"valor": -0.84,
+"id_municipio_f": 2,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 653,
+"mes": 6,
+"ano": 2017,
+"valor": -2.2,
+"id_municipio_f": 2,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 654,
+"mes": 6,
+"ano": 2017,
+"valor": 0.19,
+"id_municipio_f": 2,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 655,
+"mes": 6,
+"ano": 2017,
+"valor": 0.51,
+"id_municipio_f": 2,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 656,
+"mes": 6,
+"ano": 2017,
+"valor": -0.47,
+"id_municipio_f": 2,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 657,
+"mes": 6,
+"ano": 2017,
+"valor": 0.41,
+"id_municipio_f": 2,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 658,
+"mes": 6,
+"ano": 2017,
+"valor": 0.13,
+"id_municipio_f": 2,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 659,
+"mes": 6,
+"ano": 2017,
+"valor": 0.39,
+"id_municipio_f": 2,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 660,
+"mes": 6,
+"ano": 2017,
+"valor": 0.07,
+"id_municipio_f": 2,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 661,
+"mes": 7,
+"ano": 2017,
+"valor": 0.19,
+"id_municipio_f": 2,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 662,
+"mes": 7,
+"ano": 2017,
+"valor": -0.66,
+"id_municipio_f": 2,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 663,
+"mes": 7,
+"ano": 2017,
+"valor": 1.8,
+"id_municipio_f": 2,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 664,
+"mes": 7,
+"ano": 2017,
+"valor": -0.04,
+"id_municipio_f": 2,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 665,
+"mes": 7,
+"ano": 2017,
+"valor": -0.84,
+"id_municipio_f": 2,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 666,
+"mes": 7,
+"ano": 2017,
+"valor": -0.11,
+"id_municipio_f": 2,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 667,
+"mes": 7,
+"ano": 2017,
+"valor": 0.61,
+"id_municipio_f": 2,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 668,
+"mes": 7,
+"ano": 2017,
+"valor": 0.31,
+"id_municipio_f": 2,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 669,
+"mes": 7,
+"ano": 2017,
+"valor": 0.1,
+"id_municipio_f": 2,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 670,
+"mes": 7,
+"ano": 2017,
+"valor": 0.01,
+"id_municipio_f": 2,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 671,
+"mes": 8,
+"ano": 2017,
+"valor": 0.08,
+"id_municipio_f": 2,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 672,
+"mes": 8,
+"ano": 2017,
+"valor": -1.7,
+"id_municipio_f": 2,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 673,
+"mes": 8,
+"ano": 2017,
+"valor": 0.86,
+"id_municipio_f": 2,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 674,
+"mes": 8,
+"ano": 2017,
+"valor": 0.35,
+"id_municipio_f": 2,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 675,
+"mes": 8,
+"ano": 2017,
+"valor": 0.55,
+"id_municipio_f": 2,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 676,
+"mes": 8,
+"ano": 2017,
+"valor": 1.9,
+"id_municipio_f": 2,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 677,
+"mes": 8,
+"ano": 2017,
+"valor": 0.26,
+"id_municipio_f": 2,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 678,
+"mes": 8,
+"ano": 2017,
+"valor": 0.3,
+"id_municipio_f": 2,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 679,
+"mes": 8,
+"ano": 2017,
+"valor": -0.29,
+"id_municipio_f": 2,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 680,
+"mes": 8,
+"ano": 2017,
+"valor": -0.23,
+"id_municipio_f": 2,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 681,
+"mes": 9,
+"ano": 2017,
+"valor": 0.09,
+"id_municipio_f": 2,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 682,
+"mes": 9,
+"ano": 2017,
+"valor": -0.7,
+"id_municipio_f": 2,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 683,
+"mes": 9,
+"ano": 2017,
+"valor": 0.34,
+"id_municipio_f": 2,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 684,
+"mes": 9,
+"ano": 2017,
+"valor": -0.03,
+"id_municipio_f": 2,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 685,
+"mes": 9,
+"ano": 2017,
+"valor": 0.34,
+"id_municipio_f": 2,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 686,
+"mes": 9,
+"ano": 2017,
+"valor": 0.61,
+"id_municipio_f": 2,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 687,
+"mes": 9,
+"ano": 2017,
+"valor": 0.43,
+"id_municipio_f": 2,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 688,
+"mes": 9,
+"ano": 2017,
+"valor": 0.27,
+"id_municipio_f": 2,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 689,
+"mes": 9,
+"ano": 2017,
+"valor": 0.01,
+"id_municipio_f": 2,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 690,
+"mes": 9,
+"ano": 2017,
+"valor": 0.75,
+"id_municipio_f": 2,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 691,
+"mes": 10,
+"ano": 2017,
+"valor": 0.34,
+"id_municipio_f": 2,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 692,
+"mes": 10,
+"ano": 2017,
+"valor": -0.15,
+"id_municipio_f": 2,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 693,
+"mes": 10,
+"ano": 2017,
+"valor": 1.4,
+"id_municipio_f": 2,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 694,
+"mes": 10,
+"ano": 2017,
+"valor": 0.34,
+"id_municipio_f": 2,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 695,
+"mes": 10,
+"ano": 2017,
+"valor": 0.24,
+"id_municipio_f": 2,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 696,
+"mes": 10,
+"ano": 2017,
+"valor": 0.19,
+"id_municipio_f": 2,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 697,
+"mes": 10,
+"ano": 2017,
+"valor": 0.22,
+"id_municipio_f": 2,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 698,
+"mes": 10,
+"ano": 2017,
+"valor": -0.07,
+"id_municipio_f": 2,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 699,
+"mes": 10,
+"ano": 2017,
+"valor": -0.43,
+"id_municipio_f": 2,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 700,
+"mes": 10,
+"ano": 2017,
+"valor": 0.6,
+"id_municipio_f": 2,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 701,
+"mes": 11,
+"ano": 2017,
+"valor": -0.08,
+"id_municipio_f": 2,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 702,
+"mes": 11,
+"ano": 2017,
+"valor": -0.78,
+"id_municipio_f": 2,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 703,
+"mes": 11,
+"ano": 2017,
+"valor": 0.94,
+"id_municipio_f": 2,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 704,
+"mes": 11,
+"ano": 2017,
+"valor": -0.97,
+"id_municipio_f": 2,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 705,
+"mes": 11,
+"ano": 2017,
+"valor": -0.35,
+"id_municipio_f": 2,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 706,
+"mes": 11,
+"ano": 2017,
+"valor": -0.11,
+"id_municipio_f": 2,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 707,
+"mes": 11,
+"ano": 2017,
+"valor": -0.05,
+"id_municipio_f": 2,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 708,
+"mes": 11,
+"ano": 2017,
+"valor": 0.03,
+"id_municipio_f": 2,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 709,
+"mes": 11,
+"ano": 2017,
+"valor": 0.58,
+"id_municipio_f": 2,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 710,
+"mes": 11,
+"ano": 2017,
+"valor": 0.28,
+"id_municipio_f": 2,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 711,
+"mes": 12,
+"ano": 2017,
+"valor": 0.13,
+"id_municipio_f": 2,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 712,
+"mes": 12,
+"ano": 2017,
+"valor": 0.32,
+"id_municipio_f": 2,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 713,
+"mes": 12,
+"ano": 2017,
+"valor": -0.87,
+"id_municipio_f": 2,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 714,
+"mes": 12,
+"ano": 2017,
+"valor": 0.55,
+"id_municipio_f": 2,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 715,
+"mes": 12,
+"ano": 2017,
+"valor": 0.48,
+"id_municipio_f": 2,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 716,
+"mes": 12,
+"ano": 2017,
+"valor": 0.73,
+"id_municipio_f": 2,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 717,
+"mes": 12,
+"ano": 2017,
+"valor": 0.35,
+"id_municipio_f": 2,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 718,
+"mes": 12,
+"ano": 2017,
+"valor": 0.24,
+"id_municipio_f": 2,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 719,
+"mes": 12,
+"ano": 2017,
+"valor": 0.18,
+"id_municipio_f": 2,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 720,
+"mes": 12,
+"ano": 2017,
+"valor": -0.15,
+"id_municipio_f": 2,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 721,
+"mes": 1,
+"ano": 2017,
+"valor": 0.81,
+"id_municipio_f": 5,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 722,
+"mes": 1,
+"ano": 2017,
+"valor": 0.84,
+"id_municipio_f": 5,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 723,
+"mes": 1,
+"ano": 2017,
+"valor": 0.03,
+"id_municipio_f": 5,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 724,
+"mes": 1,
+"ano": 2017,
+"valor": -0.25,
+"id_municipio_f": 5,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 725,
+"mes": 1,
+"ano": 2017,
+"valor": -0.36,
+"id_municipio_f": 5,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 726,
+"mes": 1,
+"ano": 2017,
+"valor": 4.1,
+"id_municipio_f": 5,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 727,
+"mes": 1,
+"ano": 2017,
+"valor": 0.29,
+"id_municipio_f": 5,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 728,
+"mes": 1,
+"ano": 2017,
+"valor": 0.26,
+"id_municipio_f": 5,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 729,
+"mes": 1,
+"ano": 2017,
+"valor": 0.53,
+"id_municipio_f": 5,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 730,
+"mes": 1,
+"ano": 2017,
+"valor": 0.68,
+"id_municipio_f": 5,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 731,
+"mes": 2,
+"ano": 2017,
+"valor": 0.2,
+"id_municipio_f": 5,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 732,
+"mes": 2,
+"ano": 2017,
+"valor": -0.65,
+"id_municipio_f": 5,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 733,
+"mes": 2,
+"ano": 2017,
+"valor": 0.55,
+"id_municipio_f": 5,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 734,
+"mes": 2,
+"ano": 2017,
+"valor": 0.16,
+"id_municipio_f": 5,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 735,
+"mes": 2,
+"ano": 2017,
+"valor": -0.45,
+"id_municipio_f": 5,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 736,
+"mes": 2,
+"ano": 2017,
+"valor": 0.55,
+"id_municipio_f": 5,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 737,
+"mes": 2,
+"ano": 2017,
+"valor": 0.12,
+"id_municipio_f": 5,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 738,
+"mes": 2,
+"ano": 2017,
+"valor": 0.83,
+"id_municipio_f": 5,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 739,
+"mes": 2,
+"ano": 2017,
+"valor": 4.8,
+"id_municipio_f": 5,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 740,
+"mes": 2,
+"ano": 2017,
+"valor": 0.54,
+"id_municipio_f": 5,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 741,
+"mes": 3,
+"ano": 2017,
+"valor": 0.24,
+"id_municipio_f": 5,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 742,
+"mes": 3,
+"ano": 2017,
+"valor": -0.3,
+"id_municipio_f": 5,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 743,
+"mes": 3,
+"ano": 2017,
+"valor": 1.5,
+"id_municipio_f": 5,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 744,
+"mes": 3,
+"ano": 2017,
+"valor": -0.05,
+"id_municipio_f": 5,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 745,
+"mes": 3,
+"ano": 2017,
+"valor": 0.74,
+"id_municipio_f": 5,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 746,
+"mes": 3,
+"ano": 2017,
+"valor": -0.67,
+"id_municipio_f": 5,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 747,
+"mes": 3,
+"ano": 2017,
+"valor": 0.5,
+"id_municipio_f": 5,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 748,
+"mes": 3,
+"ano": 2017,
+"valor": 0.15,
+"id_municipio_f": 5,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 749,
+"mes": 3,
+"ano": 2017,
+"valor": 0.2,
+"id_municipio_f": 5,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 750,
+"mes": 3,
+"ano": 2017,
+"valor": -0.67,
+"id_municipio_f": 5,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 751,
+"mes": 4,
+"ano": 2017,
+"valor": -0.03,
+"id_municipio_f": 5,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 752,
+"mes": 4,
+"ano": 2017,
+"valor": 0.68,
+"id_municipio_f": 5,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 753,
+"mes": 4,
+"ano": 2017,
+"valor": -1.8,
+"id_municipio_f": 5,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 754,
+"mes": 4,
+"ano": 2017,
+"valor": -1.2,
+"id_municipio_f": 5,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 755,
+"mes": 4,
+"ano": 2017,
+"valor": 1.1,
+"id_municipio_f": 5,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 756,
+"mes": 4,
+"ano": 2017,
+"valor": -0.28,
+"id_municipio_f": 5,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 757,
+"mes": 4,
+"ano": 2017,
+"valor": 1.3,
+"id_municipio_f": 5,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 758,
+"mes": 4,
+"ano": 2017,
+"valor": 0.53,
+"id_municipio_f": 5,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 759,
+"mes": 4,
+"ano": 2017,
+"valor": 0.13,
+"id_municipio_f": 5,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 760,
+"mes": 4,
+"ano": 2017,
+"valor": -0.28,
+"id_municipio_f": 5,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 761,
+"mes": 5,
+"ano": 2017,
+"valor": 0.44,
+"id_municipio_f": 5,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 762,
+"mes": 5,
+"ano": 2017,
+"valor": -0.75,
+"id_municipio_f": 5,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 763,
+"mes": 5,
+"ano": 2017,
+"valor": 2,
+"id_municipio_f": 5,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 764,
+"mes": 5,
+"ano": 2017,
+"valor": -0.56,
+"id_municipio_f": 5,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 765,
+"mes": 5,
+"ano": 2017,
+"valor": 1.1,
+"id_municipio_f": 5,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 766,
+"mes": 5,
+"ano": 2017,
+"valor": 0.6,
+"id_municipio_f": 5,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 767,
+"mes": 5,
+"ano": 2017,
+"valor": 0.82,
+"id_municipio_f": 5,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 768,
+"mes": 5,
+"ano": 2017,
+"valor": -0.07,
+"id_municipio_f": 5,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 769,
+"mes": 5,
+"ano": 2017,
+"valor": 0.31,
+"id_municipio_f": 5,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 770,
+"mes": 5,
+"ano": 2017,
+"valor": -0.1,
+"id_municipio_f": 5,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 771,
+"mes": 6,
+"ano": 2017,
+"valor": -0.33,
+"id_municipio_f": 5,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 772,
+"mes": 6,
+"ano": 2017,
+"valor": -0.63,
+"id_municipio_f": 5,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 773,
+"mes": 6,
+"ano": 2017,
+"valor": -1.3,
+"id_municipio_f": 5,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 774,
+"mes": 6,
+"ano": 2017,
+"valor": 0.06,
+"id_municipio_f": 5,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 775,
+"mes": 6,
+"ano": 2017,
+"valor": 0.93,
+"id_municipio_f": 5,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 776,
+"mes": 6,
+"ano": 2017,
+"valor": -0.19,
+"id_municipio_f": 5,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 777,
+"mes": 6,
+"ano": 2017,
+"valor": 0.22,
+"id_municipio_f": 5,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 778,
+"mes": 6,
+"ano": 2017,
+"valor": 0.49,
+"id_municipio_f": 5,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 779,
+"mes": 6,
+"ano": 2017,
+"valor": 0.35,
+"id_municipio_f": 5,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 780,
+"mes": 6,
+"ano": 2017,
+"valor": 0.07,
+"id_municipio_f": 5,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 781,
+"mes": 7,
+"ano": 2017,
+"valor": -0.06,
+"id_municipio_f": 5,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 782,
+"mes": 7,
+"ano": 2017,
+"valor": -0.9,
+"id_municipio_f": 5,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 783,
+"mes": 7,
+"ano": 2017,
+"valor": 0.7,
+"id_municipio_f": 5,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 784,
+"mes": 7,
+"ano": 2017,
+"valor": -0.42,
+"id_municipio_f": 5,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 785,
+"mes": 7,
+"ano": 2017,
+"valor": -0.02,
+"id_municipio_f": 5,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 786,
+"mes": 7,
+"ano": 2017,
+"valor": -0.11,
+"id_municipio_f": 5,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 787,
+"mes": 7,
+"ano": 2017,
+"valor": 0.3,
+"id_municipio_f": 5,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 788,
+"mes": 7,
+"ano": 2017,
+"valor": 0.32,
+"id_municipio_f": 5,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 789,
+"mes": 7,
+"ano": 2017,
+"valor": 0.77,
+"id_municipio_f": 5,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 790,
+"mes": 7,
+"ano": 2017,
+"valor": -0.04,
+"id_municipio_f": 5,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 791,
+"mes": 8,
+"ano": 2017,
+"valor": 0.31,
+"id_municipio_f": 5,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 792,
+"mes": 8,
+"ano": 2017,
+"valor": -1.4,
+"id_municipio_f": 5,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 793,
+"mes": 8,
+"ano": 2017,
+"valor": 2.2,
+"id_municipio_f": 5,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 794,
+"mes": 8,
+"ano": 2017,
+"valor": -0.06,
+"id_municipio_f": 5,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 795,
+"mes": 8,
+"ano": 2017,
+"valor": 0.03,
+"id_municipio_f": 5,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 796,
+"mes": 8,
+"ano": 2017,
+"valor": 1.4,
+"id_municipio_f": 5,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 797,
+"mes": 8,
+"ano": 2017,
+"valor": 0,
+"id_municipio_f": 5,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 798,
+"mes": 8,
+"ano": 2017,
+"valor": 0.31,
+"id_municipio_f": 5,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 799,
+"mes": 8,
+"ano": 2017,
+"valor": 0.67,
+"id_municipio_f": 5,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 800,
+"mes": 8,
+"ano": 2017,
+"valor": 0.04,
+"id_municipio_f": 5,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 801,
+"mes": 9,
+"ano": 2017,
+"valor": 0.24,
+"id_municipio_f": 5,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 802,
+"mes": 9,
+"ano": 2017,
+"valor": -0.14,
+"id_municipio_f": 5,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 803,
+"mes": 9,
+"ano": 2017,
+"valor": 0.53,
+"id_municipio_f": 5,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 804,
+"mes": 9,
+"ano": 2017,
+"valor": 0.09,
+"id_municipio_f": 5,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 805,
+"mes": 9,
+"ano": 2017,
+"valor": 0.06,
+"id_municipio_f": 5,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 806,
+"mes": 9,
+"ano": 2017,
+"valor": 0.6,
+"id_municipio_f": 5,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 807,
+"mes": 9,
+"ano": 2017,
+"valor": 0.35,
+"id_municipio_f": 5,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 808,
+"mes": 9,
+"ano": 2017,
+"valor": 0.16,
+"id_municipio_f": 5,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 809,
+"mes": 9,
+"ano": 2017,
+"valor": 0.14,
+"id_municipio_f": 5,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 810,
+"mes": 9,
+"ano": 2017,
+"valor": 0.52,
+"id_municipio_f": 5,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 811,
+"mes": 10,
+"ano": 2017,
+"valor": -0.19,
+"id_municipio_f": 5,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 812,
+"mes": 10,
+"ano": 2017,
+"valor": -0.29,
+"id_municipio_f": 5,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 813,
+"mes": 10,
+"ano": 2017,
+"valor": -0.58,
+"id_municipio_f": 5,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 814,
+"mes": 10,
+"ano": 2017,
+"valor": -0.99,
+"id_municipio_f": 5,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 815,
+"mes": 10,
+"ano": 2017,
+"valor": 0.24,
+"id_municipio_f": 5,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 816,
+"mes": 10,
+"ano": 2017,
+"valor": -0.21,
+"id_municipio_f": 5,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 817,
+"mes": 10,
+"ano": 2017,
+"valor": 0.17,
+"id_municipio_f": 5,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 818,
+"mes": 10,
+"ano": 2017,
+"valor": 0.02,
+"id_municipio_f": 5,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 819,
+"mes": 10,
+"ano": 2017,
+"valor": 0.95,
+"id_municipio_f": 5,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 820,
+"mes": 10,
+"ano": 2017,
+"valor": 0.81,
+"id_municipio_f": 5,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 821,
+"mes": 11,
+"ano": 2017,
+"valor": 0.02,
+"id_municipio_f": 5,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 822,
+"mes": 11,
+"ano": 2017,
+"valor": -0.6,
+"id_municipio_f": 5,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 823,
+"mes": 11,
+"ano": 2017,
+"valor": 0.92,
+"id_municipio_f": 5,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 824,
+"mes": 11,
+"ano": 2017,
+"valor": -0.7,
+"id_municipio_f": 5,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 825,
+"mes": 11,
+"ano": 2017,
+"valor": 0.06,
+"id_municipio_f": 5,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 826,
+"mes": 11,
+"ano": 2017,
+"valor": -0.08,
+"id_municipio_f": 5,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 827,
+"mes": 11,
+"ano": 2017,
+"valor": 0,
+"id_municipio_f": 5,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 828,
+"mes": 11,
+"ano": 2017,
+"valor": 0.2,
+"id_municipio_f": 5,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 829,
+"mes": 11,
+"ano": 2017,
+"valor": 0.55,
+"id_municipio_f": 5,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 830,
+"mes": 11,
+"ano": 2017,
+"valor": -0.18,
+"id_municipio_f": 5,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 831,
+"mes": 12,
+"ano": 2017,
+"valor": 0.18,
+"id_municipio_f": 5,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 832,
+"mes": 12,
+"ano": 2017,
+"valor": 0.65,
+"id_municipio_f": 5,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 833,
+"mes": 12,
+"ano": 2017,
+"valor": -0.35,
+"id_municipio_f": 5,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 834,
+"mes": 12,
+"ano": 2017,
+"valor": -0.13,
+"id_municipio_f": 5,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 835,
+"mes": 12,
+"ano": 2017,
+"valor": 0.1,
+"id_municipio_f": 5,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 836,
+"mes": 12,
+"ano": 2017,
+"valor": 0.28,
+"id_municipio_f": 5,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 837,
+"mes": 12,
+"ano": 2017,
+"valor": 0.42,
+"id_municipio_f": 5,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 838,
+"mes": 12,
+"ano": 2017,
+"valor": 0.13,
+"id_municipio_f": 5,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 839,
+"mes": 12,
+"ano": 2017,
+"valor": -0.03,
+"id_municipio_f": 5,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 840,
+"mes": 12,
+"ano": 2017,
+"valor": -0.19,
+"id_municipio_f": 5,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 841,
+"mes": 1,
+"ano": 2017,
+"valor": 0.53,
+"id_municipio_f": 8,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 842,
+"mes": 1,
+"ano": 2017,
+"valor": 0.51,
+"id_municipio_f": 8,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 843,
+"mes": 1,
+"ano": 2017,
+"valor": 0.4,
+"id_municipio_f": 8,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 844,
+"mes": 1,
+"ano": 2017,
+"valor": 0.54,
+"id_municipio_f": 8,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 845,
+"mes": 1,
+"ano": 2017,
+"valor": 0.35,
+"id_municipio_f": 8,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 846,
+"mes": 1,
+"ano": 2017,
+"valor": 1.2,
+"id_municipio_f": 8,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 847,
+"mes": 1,
+"ano": 2017,
+"valor": -0.14,
+"id_municipio_f": 8,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 848,
+"mes": 1,
+"ano": 2017,
+"valor": 0.33,
+"id_municipio_f": 8,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 849,
+"mes": 1,
+"ano": 2017,
+"valor": 0.67,
+"id_municipio_f": 8,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 850,
+"mes": 1,
+"ano": 2017,
+"valor": 0.37,
+"id_municipio_f": 8,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 851,
+"mes": 2,
+"ano": 2017,
+"valor": 0.47,
+"id_municipio_f": 8,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 852,
+"mes": 2,
+"ano": 2017,
+"valor": -0.38,
+"id_municipio_f": 8,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 853,
+"mes": 2,
+"ano": 2017,
+"valor": 0.54,
+"id_municipio_f": 8,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 854,
+"mes": 2,
+"ano": 2017,
+"valor": -0.52,
+"id_municipio_f": 8,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 855,
+"mes": 2,
+"ano": 2017,
+"valor": -0.42,
+"id_municipio_f": 8,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 856,
+"mes": 2,
+"ano": 2017,
+"valor": 1,
+"id_municipio_f": 8,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 857,
+"mes": 2,
+"ano": 2017,
+"valor": 0.79,
+"id_municipio_f": 8,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 858,
+"mes": 2,
+"ano": 2017,
+"valor": 0.64,
+"id_municipio_f": 8,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 859,
+"mes": 2,
+"ano": 2017,
+"valor": 6.2,
+"id_municipio_f": 8,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 860,
+"mes": 2,
+"ano": 2017,
+"valor": 0.44,
+"id_municipio_f": 8,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 861,
+"mes": 3,
+"ano": 2017,
+"valor": 0.44,
+"id_municipio_f": 8,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 862,
+"mes": 3,
+"ano": 2017,
+"valor": 0.04,
+"id_municipio_f": 8,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 863,
+"mes": 3,
+"ano": 2017,
+"valor": 2,
+"id_municipio_f": 8,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 864,
+"mes": 3,
+"ano": 2017,
+"valor": -0.25,
+"id_municipio_f": 8,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 865,
+"mes": 3,
+"ano": 2017,
+"valor": -0.57,
+"id_municipio_f": 8,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 866,
+"mes": 3,
+"ano": 2017,
+"valor": -0.05,
+"id_municipio_f": 8,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 867,
+"mes": 3,
+"ano": 2017,
+"valor": 1.2,
+"id_municipio_f": 8,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 868,
+"mes": 3,
+"ano": 2017,
+"valor": 0.5,
+"id_municipio_f": 8,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 869,
+"mes": 3,
+"ano": 2017,
+"valor": 0.25,
+"id_municipio_f": 8,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 870,
+"mes": 3,
+"ano": 2017,
+"valor": -1.1,
+"id_municipio_f": 8,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 871,
+"mes": 4,
+"ano": 2017,
+"valor": 0.22,
+"id_municipio_f": 8,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 872,
+"mes": 4,
+"ano": 2017,
+"valor": 0.48,
+"id_municipio_f": 8,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 873,
+"mes": 4,
+"ano": 2017,
+"valor": 0.16,
+"id_municipio_f": 8,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 874,
+"mes": 4,
+"ano": 2017,
+"valor": -0.98,
+"id_municipio_f": 8,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 875,
+"mes": 4,
+"ano": 2017,
+"valor": 0.34,
+"id_municipio_f": 8,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 876,
+"mes": 4,
+"ano": 2017,
+"valor": 0.05,
+"id_municipio_f": 8,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 877,
+"mes": 4,
+"ano": 2017,
+"valor": 0.7,
+"id_municipio_f": 8,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 878,
+"mes": 4,
+"ano": 2017,
+"valor": -0.2,
+"id_municipio_f": 8,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 879,
+"mes": 4,
+"ano": 2017,
+"valor": 0.19,
+"id_municipio_f": 8,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 880,
+"mes": 4,
+"ano": 2017,
+"valor": -0.33,
+"id_municipio_f": 8,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 881,
+"mes": 5,
+"ano": 2017,
+"valor": 0.36,
+"id_municipio_f": 8,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 882,
+"mes": 5,
+"ano": 2017,
+"valor": 0.04,
+"id_municipio_f": 8,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 883,
+"mes": 5,
+"ano": 2017,
+"valor": 1.8,
+"id_municipio_f": 8,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 884,
+"mes": 5,
+"ano": 2017,
+"valor": -0.18,
+"id_municipio_f": 8,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 885,
+"mes": 5,
+"ano": 2017,
+"valor": 0.8,
+"id_municipio_f": 8,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 886,
+"mes": 5,
+"ano": 2017,
+"valor": -0.16,
+"id_municipio_f": 8,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 887,
+"mes": 5,
+"ano": 2017,
+"valor": 0.24,
+"id_municipio_f": 8,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 888,
+"mes": 5,
+"ano": 2017,
+"valor": -0.1,
+"id_municipio_f": 8,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 889,
+"mes": 5,
+"ano": 2017,
+"valor": 0.12,
+"id_municipio_f": 8,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 890,
+"mes": 5,
+"ano": 2017,
+"valor": -0.34,
+"id_municipio_f": 8,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 891,
+"mes": 6,
+"ano": 2017,
+"valor": -0.27,
+"id_municipio_f": 8,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 892,
+"mes": 6,
+"ano": 2017,
+"valor": -0.53,
+"id_municipio_f": 8,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 893,
+"mes": 6,
+"ano": 2017,
+"valor": -0.92,
+"id_municipio_f": 8,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 894,
+"mes": 6,
+"ano": 2017,
+"valor": -0.18,
+"id_municipio_f": 8,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 895,
+"mes": 6,
+"ano": 2017,
+"valor": 0.75,
+"id_municipio_f": 8,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 896,
+"mes": 6,
+"ano": 2017,
+"valor": -0.01,
+"id_municipio_f": 8,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 897,
+"mes": 6,
+"ano": 2017,
+"valor": 0.31,
+"id_municipio_f": 8,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 898,
+"mes": 6,
+"ano": 2017,
+"valor": 0.14,
+"id_municipio_f": 8,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 899,
+"mes": 6,
+"ano": 2017,
+"valor": -0.24,
+"id_municipio_f": 8,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 900,
+"mes": 6,
+"ano": 2017,
+"valor": 0.05,
+"id_municipio_f": 8,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 901,
+"mes": 7,
+"ano": 2017,
+"valor": -0.16,
+"id_municipio_f": 8,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 902,
+"mes": 7,
+"ano": 2017,
+"valor": -0.72,
+"id_municipio_f": 8,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 903,
+"mes": 7,
+"ano": 2017,
+"valor": 0.68,
+"id_municipio_f": 8,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 904,
+"mes": 7,
+"ano": 2017,
+"valor": -0.29,
+"id_municipio_f": 8,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 905,
+"mes": 7,
+"ano": 2017,
+"valor": -1.3,
+"id_municipio_f": 8,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 906,
+"mes": 7,
+"ano": 2017,
+"valor": -0.01,
+"id_municipio_f": 8,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 907,
+"mes": 7,
+"ano": 2017,
+"valor": 0.16,
+"id_municipio_f": 8,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 908,
+"mes": 7,
+"ano": 2017,
+"valor": -0.19,
+"id_municipio_f": 8,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 909,
+"mes": 7,
+"ano": 2017,
+"valor": 0.07,
+"id_municipio_f": 8,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 910,
+"mes": 7,
+"ano": 2017,
+"valor": 0.03,
+"id_municipio_f": 8,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 911,
+"mes": 8,
+"ano": 2017,
+"valor": -0.14,
+"id_municipio_f": 8,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 912,
+"mes": 8,
+"ano": 2017,
+"valor": -1.4,
+"id_municipio_f": 8,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 913,
+"mes": 8,
+"ano": 2017,
+"valor": 0.91,
+"id_municipio_f": 8,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 914,
+"mes": 8,
+"ano": 2017,
+"valor": 0.57,
+"id_municipio_f": 8,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 915,
+"mes": 8,
+"ano": 2017,
+"valor": 0.32,
+"id_municipio_f": 8,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 916,
+"mes": 8,
+"ano": 2017,
+"valor": 0.39,
+"id_municipio_f": 8,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 917,
+"mes": 8,
+"ano": 2017,
+"valor": -0.13,
+"id_municipio_f": 8,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 918,
+"mes": 8,
+"ano": 2017,
+"valor": -0.02,
+"id_municipio_f": 8,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 919,
+"mes": 8,
+"ano": 2017,
+"valor": -0.02,
+"id_municipio_f": 8,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 920,
+"mes": 8,
+"ano": 2017,
+"valor": -0.02,
+"id_municipio_f": 8,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 921,
+"mes": 9,
+"ano": 2017,
+"valor": -0.48,
+"id_municipio_f": 8,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 922,
+"mes": 9,
+"ano": 2017,
+"valor": -0.11,
+"id_municipio_f": 8,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 923,
+"mes": 9,
+"ano": 2017,
+"valor": -0.55,
+"id_municipio_f": 8,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 924,
+"mes": 9,
+"ano": 2017,
+"valor": -0.16,
+"id_municipio_f": 8,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 925,
+"mes": 9,
+"ano": 2017,
+"valor": -0.21,
+"id_municipio_f": 8,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 926,
+"mes": 9,
+"ano": 2017,
+"valor": -2.2,
+"id_municipio_f": 8,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 927,
+"mes": 9,
+"ano": 2017,
+"valor": 0.28,
+"id_municipio_f": 8,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 928,
+"mes": 9,
+"ano": 2017,
+"valor": 0.44,
+"id_municipio_f": 8,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 929,
+"mes": 9,
+"ano": 2017,
+"valor": 0.19,
+"id_municipio_f": 8,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 930,
+"mes": 9,
+"ano": 2017,
+"valor": 0.46,
+"id_municipio_f": 8,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 931,
+"mes": 10,
+"ano": 2017,
+"valor": -0.22,
+"id_municipio_f": 8,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 932,
+"mes": 10,
+"ano": 2017,
+"valor": -1,
+"id_municipio_f": 8,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 933,
+"mes": 10,
+"ano": 2017,
+"valor": -0.04,
+"id_municipio_f": 8,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 934,
+"mes": 10,
+"ano": 2017,
+"valor": -0.73,
+"id_municipio_f": 8,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 935,
+"mes": 10,
+"ano": 2017,
+"valor": 0.62,
+"id_municipio_f": 8,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 936,
+"mes": 10,
+"ano": 2017,
+"valor": -0.14,
+"id_municipio_f": 8,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 937,
+"mes": 10,
+"ano": 2017,
+"valor": 0.72,
+"id_municipio_f": 8,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 938,
+"mes": 10,
+"ano": 2017,
+"valor": 0.39,
+"id_municipio_f": 8,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 939,
+"mes": 10,
+"ano": 2017,
+"valor": -0.02,
+"id_municipio_f": 8,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 940,
+"mes": 10,
+"ano": 2017,
+"valor": 0.28,
+"id_municipio_f": 8,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 941,
+"mes": 11,
+"ano": 2017,
+"valor": 0.2,
+"id_municipio_f": 8,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 942,
+"mes": 11,
+"ano": 2017,
+"valor": 0.4,
+"id_municipio_f": 8,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 943,
+"mes": 11,
+"ano": 2017,
+"valor": 1.3,
+"id_municipio_f": 8,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 944,
+"mes": 11,
+"ano": 2017,
+"valor": -1.4,
+"id_municipio_f": 8,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 945,
+"mes": 11,
+"ano": 2017,
+"valor": 0.5,
+"id_municipio_f": 8,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 946,
+"mes": 11,
+"ano": 2017,
+"valor": -1.2,
+"id_municipio_f": 8,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 947,
+"mes": 11,
+"ano": 2017,
+"valor": 0.49,
+"id_municipio_f": 8,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 948,
+"mes": 11,
+"ano": 2017,
+"valor": 0.14,
+"id_municipio_f": 8,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 949,
+"mes": 11,
+"ano": 2017,
+"valor": -0.01,
+"id_municipio_f": 8,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 950,
+"mes": 11,
+"ano": 2017,
+"valor": 0.33,
+"id_municipio_f": 8,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 951,
+"mes": 12,
+"ano": 2017,
+"valor": 0.3,
+"id_municipio_f": 8,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 952,
+"mes": 12,
+"ano": 2017,
+"valor": 0.89,
+"id_municipio_f": 8,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 953,
+"mes": 12,
+"ano": 2017,
+"valor": 0.12,
+"id_municipio_f": 8,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 954,
+"mes": 12,
+"ano": 2017,
+"valor": -0.01,
+"id_municipio_f": 8,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 955,
+"mes": 12,
+"ano": 2017,
+"valor": 1.6,
+"id_municipio_f": 8,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 956,
+"mes": 12,
+"ano": 2017,
+"valor": -1.1,
+"id_municipio_f": 8,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 957,
+"mes": 12,
+"ano": 2017,
+"valor": 0.69,
+"id_municipio_f": 8,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 958,
+"mes": 12,
+"ano": 2017,
+"valor": 0.97,
+"id_municipio_f": 8,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 959,
+"mes": 12,
+"ano": 2017,
+"valor": -0.05,
+"id_municipio_f": 8,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 960,
+"mes": 12,
+"ano": 2017,
+"valor": -0.17,
+"id_municipio_f": 8,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 961,
+"mes": 1,
+"ano": 2017,
+"valor": 0.07,
+"id_municipio_f": 10,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 962,
+"mes": 1,
+"ano": 2017,
+"valor": -0.29,
+"id_municipio_f": 10,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 963,
+"mes": 1,
+"ano": 2017,
+"valor": -0.22,
+"id_municipio_f": 10,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 964,
+"mes": 1,
+"ano": 2017,
+"valor": -0.35,
+"id_municipio_f": 10,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 965,
+"mes": 1,
+"ano": 2017,
+"valor": -0.04,
+"id_municipio_f": 10,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 966,
+"mes": 1,
+"ano": 2017,
+"valor": 0.53,
+"id_municipio_f": 10,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 967,
+"mes": 1,
+"ano": 2017,
+"valor": 0.64,
+"id_municipio_f": 10,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 968,
+"mes": 1,
+"ano": 2017,
+"valor": 0.16,
+"id_municipio_f": 10,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 969,
+"mes": 1,
+"ano": 2017,
+"valor": 0.54,
+"id_municipio_f": 10,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 970,
+"mes": 1,
+"ano": 2017,
+"valor": 0.83,
+"id_municipio_f": 10,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 971,
+"mes": 2,
+"ano": 2017,
+"valor": 0.14,
+"id_municipio_f": 10,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 972,
+"mes": 2,
+"ano": 2017,
+"valor": -0.31,
+"id_municipio_f": 10,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 973,
+"mes": 2,
+"ano": 2017,
+"valor": 0.32,
+"id_municipio_f": 10,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 974,
+"mes": 2,
+"ano": 2017,
+"valor": 0.61,
+"id_municipio_f": 10,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 975,
+"mes": 2,
+"ano": 2017,
+"valor": 0.09,
+"id_municipio_f": 10,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 976,
+"mes": 2,
+"ano": 2017,
+"valor": 0.3,
+"id_municipio_f": 10,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 977,
+"mes": 2,
+"ano": 2017,
+"valor": 0.43,
+"id_municipio_f": 10,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 978,
+"mes": 2,
+"ano": 2017,
+"valor": -0.12,
+"id_municipio_f": 10,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 979,
+"mes": 2,
+"ano": 2017,
+"valor": 2.1,
+"id_municipio_f": 10,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 980,
+"mes": 2,
+"ano": 2017,
+"valor": 0.17,
+"id_municipio_f": 10,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 981,
+"mes": 3,
+"ano": 2017,
+"valor": 0.38,
+"id_municipio_f": 10,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 982,
+"mes": 3,
+"ano": 2017,
+"valor": 0.4,
+"id_municipio_f": 10,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 983,
+"mes": 3,
+"ano": 2017,
+"valor": 1.1,
+"id_municipio_f": 10,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 984,
+"mes": 3,
+"ano": 2017,
+"valor": -0.21,
+"id_municipio_f": 10,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 985,
+"mes": 3,
+"ano": 2017,
+"valor": -0.05,
+"id_municipio_f": 10,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 986,
+"mes": 3,
+"ano": 2017,
+"valor": -0.85,
+"id_municipio_f": 10,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 987,
+"mes": 3,
+"ano": 2017,
+"valor": 0.78,
+"id_municipio_f": 10,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 988,
+"mes": 3,
+"ano": 2017,
+"valor": 1.6,
+"id_municipio_f": 10,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 989,
+"mes": 3,
+"ano": 2017,
+"valor": 1.8,
+"id_municipio_f": 10,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 990,
+"mes": 3,
+"ano": 2017,
+"valor": -0.76,
+"id_municipio_f": 10,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 991,
+"mes": 4,
+"ano": 2017,
+"valor": 0.17,
+"id_municipio_f": 10,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 992,
+"mes": 4,
+"ano": 2017,
+"valor": 1.1,
+"id_municipio_f": 10,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 993,
+"mes": 4,
+"ano": 2017,
+"valor": -1.4,
+"id_municipio_f": 10,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 994,
+"mes": 4,
+"ano": 2017,
+"valor": -0.28,
+"id_municipio_f": 10,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 995,
+"mes": 4,
+"ano": 2017,
+"valor": 1.1,
+"id_municipio_f": 10,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 996,
+"mes": 4,
+"ano": 2017,
+"valor": -0.37,
+"id_municipio_f": 10,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 997,
+"mes": 4,
+"ano": 2017,
+"valor": 1.3,
+"id_municipio_f": 10,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 998,
+"mes": 4,
+"ano": 2017,
+"valor": -0.03,
+"id_municipio_f": 10,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 999,
+"mes": 4,
+"ano": 2017,
+"valor": -0.18,
+"id_municipio_f": 10,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1000,
+"mes": 4,
+"ano": 2017,
+"valor": -0.25,
+"id_municipio_f": 10,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1001,
+"mes": 5,
+"ano": 2017,
+"valor": 0.51,
+"id_municipio_f": 10,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1002,
+"mes": 5,
+"ano": 2017,
+"valor": -0.12,
+"id_municipio_f": 10,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1003,
+"mes": 5,
+"ano": 2017,
+"valor": 2.4,
+"id_municipio_f": 10,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1004,
+"mes": 5,
+"ano": 2017,
+"valor": -0.36,
+"id_municipio_f": 10,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1005,
+"mes": 5,
+"ano": 2017,
+"valor": 1.3,
+"id_municipio_f": 10,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1006,
+"mes": 5,
+"ano": 2017,
+"valor": -0.34,
+"id_municipio_f": 10,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1007,
+"mes": 5,
+"ano": 2017,
+"valor": 0.48,
+"id_municipio_f": 10,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1008,
+"mes": 5,
+"ano": 2017,
+"valor": 0.38,
+"id_municipio_f": 10,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1009,
+"mes": 5,
+"ano": 2017,
+"valor": 0.54,
+"id_municipio_f": 10,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1010,
+"mes": 5,
+"ano": 2017,
+"valor": 0.24,
+"id_municipio_f": 10,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1011,
+"mes": 6,
+"ano": 2017,
+"valor": -0.42,
+"id_municipio_f": 10,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1012,
+"mes": 6,
+"ano": 2017,
+"valor": -0.32,
+"id_municipio_f": 10,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1013,
+"mes": 6,
+"ano": 2017,
+"valor": -1.4,
+"id_municipio_f": 10,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1014,
+"mes": 6,
+"ano": 2017,
+"valor": 0.2,
+"id_municipio_f": 10,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1015,
+"mes": 6,
+"ano": 2017,
+"valor": -0.28,
+"id_municipio_f": 10,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1016,
+"mes": 6,
+"ano": 2017,
+"valor": -0.78,
+"id_municipio_f": 10,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1017,
+"mes": 6,
+"ano": 2017,
+"valor": 0.35,
+"id_municipio_f": 10,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1018,
+"mes": 6,
+"ano": 2017,
+"valor": 0.19,
+"id_municipio_f": 10,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1019,
+"mes": 6,
+"ano": 2017,
+"valor": 0.32,
+"id_municipio_f": 10,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1020,
+"mes": 6,
+"ano": 2017,
+"valor": 0.24,
+"id_municipio_f": 10,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1021,
+"mes": 7,
+"ano": 2017,
+"valor": 0.31,
+"id_municipio_f": 10,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1022,
+"mes": 7,
+"ano": 2017,
+"valor": -0.61,
+"id_municipio_f": 10,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1023,
+"mes": 7,
+"ano": 2017,
+"valor": 2.2,
+"id_municipio_f": 10,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1024,
+"mes": 7,
+"ano": 2017,
+"valor": 0.14,
+"id_municipio_f": 10,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1025,
+"mes": 7,
+"ano": 2017,
+"valor": -0.44,
+"id_municipio_f": 10,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1026,
+"mes": 7,
+"ano": 2017,
+"valor": 0.45,
+"id_municipio_f": 10,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1027,
+"mes": 7,
+"ano": 2017,
+"valor": -0.02,
+"id_municipio_f": 10,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1028,
+"mes": 7,
+"ano": 2017,
+"valor": 0.5,
+"id_municipio_f": 10,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1029,
+"mes": 7,
+"ano": 2017,
+"valor": -0.48,
+"id_municipio_f": 10,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1030,
+"mes": 7,
+"ano": 2017,
+"valor": -0.01,
+"id_municipio_f": 10,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1031,
+"mes": 8,
+"ano": 2017,
+"valor": 0.02,
+"id_municipio_f": 10,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1032,
+"mes": 8,
+"ano": 2017,
+"valor": -1.4,
+"id_municipio_f": 10,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1033,
+"mes": 8,
+"ano": 2017,
+"valor": 0.53,
+"id_municipio_f": 10,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1034,
+"mes": 8,
+"ano": 2017,
+"valor": -0.1,
+"id_municipio_f": 10,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1035,
+"mes": 8,
+"ano": 2017,
+"valor": 0.18,
+"id_municipio_f": 10,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1036,
+"mes": 8,
+"ano": 2017,
+"valor": 1.3,
+"id_municipio_f": 10,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1037,
+"mes": 8,
+"ano": 2017,
+"valor": 0.5,
+"id_municipio_f": 10,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1038,
+"mes": 8,
+"ano": 2017,
+"valor": 0.19,
+"id_municipio_f": 10,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1039,
+"mes": 8,
+"ano": 2017,
+"valor": 0.66,
+"id_municipio_f": 10,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1040,
+"mes": 8,
+"ano": 2017,
+"valor": -0.33,
+"id_municipio_f": 10,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1041,
+"mes": 9,
+"ano": 2017,
+"valor": 0.02,
+"id_municipio_f": 10,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1042,
+"mes": 9,
+"ano": 2017,
+"valor": -0.38,
+"id_municipio_f": 10,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1043,
+"mes": 9,
+"ano": 2017,
+"valor": -0.56,
+"id_municipio_f": 10,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1044,
+"mes": 9,
+"ano": 2017,
+"valor": 0.69,
+"id_municipio_f": 10,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1045,
+"mes": 9,
+"ano": 2017,
+"valor": 0.51,
+"id_municipio_f": 10,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1046,
+"mes": 9,
+"ano": 2017,
+"valor": 0.26,
+"id_municipio_f": 10,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1047,
+"mes": 9,
+"ano": 2017,
+"valor": 0.06,
+"id_municipio_f": 10,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1048,
+"mes": 9,
+"ano": 2017,
+"valor": 1.3,
+"id_municipio_f": 10,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1049,
+"mes": 9,
+"ano": 2017,
+"valor": -0.14,
+"id_municipio_f": 10,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1050,
+"mes": 9,
+"ano": 2017,
+"valor": 0.32,
+"id_municipio_f": 10,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1051,
+"mes": 10,
+"ano": 2017,
+"valor": 0.51,
+"id_municipio_f": 10,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1052,
+"mes": 10,
+"ano": 2017,
+"valor": 0.02,
+"id_municipio_f": 10,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1053,
+"mes": 10,
+"ano": 2017,
+"valor": 1.6,
+"id_municipio_f": 10,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1054,
+"mes": 10,
+"ano": 2017,
+"valor": -0.61,
+"id_municipio_f": 10,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1055,
+"mes": 10,
+"ano": 2017,
+"valor": 0.96,
+"id_municipio_f": 10,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1056,
+"mes": 10,
+"ano": 2017,
+"valor": 0.45,
+"id_municipio_f": 10,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1057,
+"mes": 10,
+"ano": 2017,
+"valor": 0.59,
+"id_municipio_f": 10,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1058,
+"mes": 10,
+"ano": 2017,
+"valor": 0.24,
+"id_municipio_f": 10,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1059,
+"mes": 10,
+"ano": 2017,
+"valor": 0.19,
+"id_municipio_f": 10,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1060,
+"mes": 10,
+"ano": 2017,
+"valor": 0.24,
+"id_municipio_f": 10,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1061,
+"mes": 11,
+"ano": 2017,
+"valor": 0.53,
+"id_municipio_f": 10,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1062,
+"mes": 11,
+"ano": 2017,
+"valor": -0.22,
+"id_municipio_f": 10,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1063,
+"mes": 11,
+"ano": 2017,
+"valor": 1.9,
+"id_municipio_f": 10,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1064,
+"mes": 11,
+"ano": 2017,
+"valor": -0.53,
+"id_municipio_f": 10,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1065,
+"mes": 11,
+"ano": 2017,
+"valor": -0.21,
+"id_municipio_f": 10,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1066,
+"mes": 11,
+"ano": 2017,
+"valor": 1.1,
+"id_municipio_f": 10,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1067,
+"mes": 11,
+"ano": 2017,
+"valor": 0.27,
+"id_municipio_f": 10,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1068,
+"mes": 11,
+"ano": 2017,
+"valor": 0.76,
+"id_municipio_f": 10,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1069,
+"mes": 11,
+"ano": 2017,
+"valor": 0.1,
+"id_municipio_f": 10,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1070,
+"mes": 11,
+"ano": 2017,
+"valor": -0.25,
+"id_municipio_f": 10,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1071,
+"mes": 12,
+"ano": 2017,
+"valor": 0.43,
+"id_municipio_f": 10,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1072,
+"mes": 12,
+"ano": 2017,
+"valor": 0.74,
+"id_municipio_f": 10,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1073,
+"mes": 12,
+"ano": 2017,
+"valor": 0.04,
+"id_municipio_f": 10,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1074,
+"mes": 12,
+"ano": 2017,
+"valor": 0.08,
+"id_municipio_f": 10,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1075,
+"mes": 12,
+"ano": 2017,
+"valor": 0.95,
+"id_municipio_f": 10,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1076,
+"mes": 12,
+"ano": 2017,
+"valor": 0.62,
+"id_municipio_f": 10,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1077,
+"mes": 12,
+"ano": 2017,
+"valor": 0.22,
+"id_municipio_f": 10,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1078,
+"mes": 12,
+"ano": 2017,
+"valor": 0.28,
+"id_municipio_f": 10,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1079,
+"mes": 12,
+"ano": 2017,
+"valor": -0.14,
+"id_municipio_f": 10,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1080,
+"mes": 12,
+"ano": 2017,
+"valor": -0.15,
+"id_municipio_f": 10,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1081,
+"mes": 1,
+"ano": 2017,
+"valor": 0.23,
+"id_municipio_f": 3,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1082,
+"mes": 1,
+"ano": 2017,
+"valor": -0.21,
+"id_municipio_f": 3,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1083,
+"mes": 1,
+"ano": 2017,
+"valor": -0.13,
+"id_municipio_f": 3,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1084,
+"mes": 1,
+"ano": 2017,
+"valor": -0.25,
+"id_municipio_f": 3,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1085,
+"mes": 1,
+"ano": 2017,
+"valor": -0.24,
+"id_municipio_f": 3,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1086,
+"mes": 1,
+"ano": 2017,
+"valor": 0.55,
+"id_municipio_f": 3,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1087,
+"mes": 1,
+"ano": 2017,
+"valor": 1.8,
+"id_municipio_f": 3,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1088,
+"mes": 1,
+"ano": 2017,
+"valor": 0.77,
+"id_municipio_f": 3,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1089,
+"mes": 1,
+"ano": 2017,
+"valor": 0.6,
+"id_municipio_f": 3,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1090,
+"mes": 1,
+"ano": 2017,
+"valor": 0.42,
+"id_municipio_f": 3,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1091,
+"mes": 2,
+"ano": 2017,
+"valor": 0.66,
+"id_municipio_f": 3,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1092,
+"mes": 2,
+"ano": 2017,
+"valor": -0.57,
+"id_municipio_f": 3,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1093,
+"mes": 2,
+"ano": 2017,
+"valor": -0.03,
+"id_municipio_f": 3,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1094,
+"mes": 2,
+"ano": 2017,
+"valor": 0.74,
+"id_municipio_f": 3,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1095,
+"mes": 2,
+"ano": 2017,
+"valor": 0.14,
+"id_municipio_f": 3,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1096,
+"mes": 2,
+"ano": 2017,
+"valor": 3.5,
+"id_municipio_f": 3,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1097,
+"mes": 2,
+"ano": 2017,
+"valor": 0.75,
+"id_municipio_f": 3,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1098,
+"mes": 2,
+"ano": 2017,
+"valor": 0.35,
+"id_municipio_f": 3,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1099,
+"mes": 2,
+"ano": 2017,
+"valor": 3.9,
+"id_municipio_f": 3,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1100,
+"mes": 2,
+"ano": 2017,
+"valor": 0.29,
+"id_municipio_f": 3,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1101,
+"mes": 3,
+"ano": 2017,
+"valor": 0.38,
+"id_municipio_f": 3,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1102,
+"mes": 3,
+"ano": 2017,
+"valor": 0.31,
+"id_municipio_f": 3,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1103,
+"mes": 3,
+"ano": 2017,
+"valor": 1.3,
+"id_municipio_f": 3,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1104,
+"mes": 3,
+"ano": 2017,
+"valor": -0.45,
+"id_municipio_f": 3,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1105,
+"mes": 3,
+"ano": 2017,
+"valor": 0.22,
+"id_municipio_f": 3,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1106,
+"mes": 3,
+"ano": 2017,
+"valor": -0.13,
+"id_municipio_f": 3,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1107,
+"mes": 3,
+"ano": 2017,
+"valor": 0.36,
+"id_municipio_f": 3,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1108,
+"mes": 3,
+"ano": 2017,
+"valor": 0.57,
+"id_municipio_f": 3,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1109,
+"mes": 3,
+"ano": 2017,
+"valor": 0.41,
+"id_municipio_f": 3,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1110,
+"mes": 3,
+"ano": 2017,
+"valor": -0.63,
+"id_municipio_f": 3,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1111,
+"mes": 4,
+"ano": 2017,
+"valor": -0.17,
+"id_municipio_f": 3,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1112,
+"mes": 4,
+"ano": 2017,
+"valor": 0.32,
+"id_municipio_f": 3,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1113,
+"mes": 4,
+"ano": 2017,
+"valor": -1.5,
+"id_municipio_f": 3,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1114,
+"mes": 4,
+"ano": 2017,
+"valor": -0.51,
+"id_municipio_f": 3,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1115,
+"mes": 4,
+"ano": 2017,
+"valor": 0.33,
+"id_municipio_f": 3,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1116,
+"mes": 4,
+"ano": 2017,
+"valor": -0.64,
+"id_municipio_f": 3,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1117,
+"mes": 4,
+"ano": 2017,
+"valor": 1.4,
+"id_municipio_f": 3,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1118,
+"mes": 4,
+"ano": 2017,
+"valor": -0.14,
+"id_municipio_f": 3,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1119,
+"mes": 4,
+"ano": 2017,
+"valor": -0.14,
+"id_municipio_f": 3,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1120,
+"mes": 4,
+"ano": 2017,
+"valor": 0.51,
+"id_municipio_f": 3,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1121,
+"mes": 5,
+"ano": 2017,
+"valor": 0.59,
+"id_municipio_f": 3,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1122,
+"mes": 5,
+"ano": 2017,
+"valor": -0.37,
+"id_municipio_f": 3,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1123,
+"mes": 5,
+"ano": 2017,
+"valor": 3.1,
+"id_municipio_f": 3,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1124,
+"mes": 5,
+"ano": 2017,
+"valor": -0.32,
+"id_municipio_f": 3,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1125,
+"mes": 5,
+"ano": 2017,
+"valor": 1.3,
+"id_municipio_f": 3,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1126,
+"mes": 5,
+"ano": 2017,
+"valor": -0.19,
+"id_municipio_f": 3,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1127,
+"mes": 5,
+"ano": 2017,
+"valor": 0.32,
+"id_municipio_f": 3,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1128,
+"mes": 5,
+"ano": 2017,
+"valor": -0.02,
+"id_municipio_f": 3,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1129,
+"mes": 5,
+"ano": 2017,
+"valor": 0.01,
+"id_municipio_f": 3,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1130,
+"mes": 5,
+"ano": 2017,
+"valor": 0.27,
+"id_municipio_f": 3,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1131,
+"mes": 6,
+"ano": 2017,
+"valor": -0.2,
+"id_municipio_f": 3,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1132,
+"mes": 6,
+"ano": 2017,
+"valor": -0.78,
+"id_municipio_f": 3,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1133,
+"mes": 6,
+"ano": 2017,
+"valor": 0.3,
+"id_municipio_f": 3,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1134,
+"mes": 6,
+"ano": 2017,
+"valor": -0.14,
+"id_municipio_f": 3,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1135,
+"mes": 6,
+"ano": 2017,
+"valor": -0.58,
+"id_municipio_f": 3,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1136,
+"mes": 6,
+"ano": 2017,
+"valor": -0.56,
+"id_municipio_f": 3,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1137,
+"mes": 6,
+"ano": 2017,
+"valor": 0.9,
+"id_municipio_f": 3,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1138,
+"mes": 6,
+"ano": 2017,
+"valor": 0.01,
+"id_municipio_f": 3,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1139,
+"mes": 6,
+"ano": 2017,
+"valor": 0.56,
+"id_municipio_f": 3,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1140,
+"mes": 6,
+"ano": 2017,
+"valor": 0.19,
+"id_municipio_f": 3,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1141,
+"mes": 7,
+"ano": 2017,
+"valor": 0.42,
+"id_municipio_f": 3,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1142,
+"mes": 7,
+"ano": 2017,
+"valor": -0.74,
+"id_municipio_f": 3,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1143,
+"mes": 7,
+"ano": 2017,
+"valor": 2.4,
+"id_municipio_f": 3,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1144,
+"mes": 7,
+"ano": 2017,
+"valor": -0.92,
+"id_municipio_f": 3,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1145,
+"mes": 7,
+"ano": 2017,
+"valor": 0.17,
+"id_municipio_f": 3,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1146,
+"mes": 7,
+"ano": 2017,
+"valor": 0.7,
+"id_municipio_f": 3,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1147,
+"mes": 7,
+"ano": 2017,
+"valor": 0.6,
+"id_municipio_f": 3,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1148,
+"mes": 7,
+"ano": 2017,
+"valor": 0.02,
+"id_municipio_f": 3,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1149,
+"mes": 7,
+"ano": 2017,
+"valor": 0.19,
+"id_municipio_f": 3,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1150,
+"mes": 7,
+"ano": 2017,
+"valor": 0.07,
+"id_municipio_f": 3,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1151,
+"mes": 8,
+"ano": 2017,
+"valor": 0.35,
+"id_municipio_f": 3,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1152,
+"mes": 8,
+"ano": 2017,
+"valor": -1.1,
+"id_municipio_f": 3,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1153,
+"mes": 8,
+"ano": 2017,
+"valor": 0.81,
+"id_municipio_f": 3,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1154,
+"mes": 8,
+"ano": 2017,
+"valor": -0.06,
+"id_municipio_f": 3,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1155,
+"mes": 8,
+"ano": 2017,
+"valor": -0.31,
+"id_municipio_f": 3,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1156,
+"mes": 8,
+"ano": 2017,
+"valor": 3,
+"id_municipio_f": 3,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1157,
+"mes": 8,
+"ano": 2017,
+"valor": -0.3,
+"id_municipio_f": 3,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1158,
+"mes": 8,
+"ano": 2017,
+"valor": 0.27,
+"id_municipio_f": 3,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1159,
+"mes": 8,
+"ano": 2017,
+"valor": 0.94,
+"id_municipio_f": 3,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1160,
+"mes": 8,
+"ano": 2017,
+"valor": 0.11,
+"id_municipio_f": 3,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1161,
+"mes": 9,
+"ano": 2017,
+"valor": -0.01,
+"id_municipio_f": 3,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1162,
+"mes": 9,
+"ano": 2017,
+"valor": -0.66,
+"id_municipio_f": 3,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1163,
+"mes": 9,
+"ano": 2017,
+"valor": -0.09,
+"id_municipio_f": 3,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1164,
+"mes": 9,
+"ano": 2017,
+"valor": -0.27,
+"id_municipio_f": 3,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1165,
+"mes": 9,
+"ano": 2017,
+"valor": 0.1,
+"id_municipio_f": 3,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1166,
+"mes": 9,
+"ano": 2017,
+"valor": 0.75,
+"id_municipio_f": 3,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1167,
+"mes": 9,
+"ano": 2017,
+"valor": -0.14,
+"id_municipio_f": 3,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1168,
+"mes": 9,
+"ano": 2017,
+"valor": 1,
+"id_municipio_f": 3,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1169,
+"mes": 9,
+"ano": 2017,
+"valor": -0.13,
+"id_municipio_f": 3,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1170,
+"mes": 9,
+"ano": 2017,
+"valor": 0.5,
+"id_municipio_f": 3,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1171,
+"mes": 10,
+"ano": 2017,
+"valor": 0.67,
+"id_municipio_f": 3,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1172,
+"mes": 10,
+"ano": 2017,
+"valor": 0.83,
+"id_municipio_f": 3,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1173,
+"mes": 10,
+"ano": 2017,
+"valor": 1.3,
+"id_municipio_f": 3,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1174,
+"mes": 10,
+"ano": 2017,
+"valor": 0.46,
+"id_municipio_f": 3,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1175,
+"mes": 10,
+"ano": 2017,
+"valor": 0.71,
+"id_municipio_f": 3,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1176,
+"mes": 10,
+"ano": 2017,
+"valor": 0.29,
+"id_municipio_f": 3,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1177,
+"mes": 10,
+"ano": 2017,
+"valor": -0.03,
+"id_municipio_f": 3,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1178,
+"mes": 10,
+"ano": 2017,
+"valor": 0.58,
+"id_municipio_f": 3,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1179,
+"mes": 10,
+"ano": 2017,
+"valor": 0.07,
+"id_municipio_f": 3,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1180,
+"mes": 10,
+"ano": 2017,
+"valor": 0.49,
+"id_municipio_f": 3,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1181,
+"mes": 11,
+"ano": 2017,
+"valor": -0.13,
+"id_municipio_f": 3,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1182,
+"mes": 11,
+"ano": 2017,
+"valor": -1.3,
+"id_municipio_f": 3,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1183,
+"mes": 11,
+"ano": 2017,
+"valor": 0.88,
+"id_municipio_f": 3,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1184,
+"mes": 11,
+"ano": 2017,
+"valor": 0.02,
+"id_municipio_f": 3,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1185,
+"mes": 11,
+"ano": 2017,
+"valor": -0.22,
+"id_municipio_f": 3,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1186,
+"mes": 11,
+"ano": 2017,
+"valor": 0.1,
+"id_municipio_f": 3,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1187,
+"mes": 11,
+"ano": 2017,
+"valor": 0.33,
+"id_municipio_f": 3,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1188,
+"mes": 11,
+"ano": 2017,
+"valor": -0.06,
+"id_municipio_f": 3,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1189,
+"mes": 11,
+"ano": 2017,
+"valor": -0.23,
+"id_municipio_f": 3,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1190,
+"mes": 11,
+"ano": 2017,
+"valor": 0.39,
+"id_municipio_f": 3,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1191,
+"mes": 12,
+"ano": 2017,
+"valor": 0.42,
+"id_municipio_f": 3,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1192,
+"mes": 12,
+"ano": 2017,
+"valor": 0.93,
+"id_municipio_f": 3,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1193,
+"mes": 12,
+"ano": 2017,
+"valor": -0.84,
+"id_municipio_f": 3,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1194,
+"mes": 12,
+"ano": 2017,
+"valor": -0.55,
+"id_municipio_f": 3,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1195,
+"mes": 12,
+"ano": 2017,
+"valor": 0.79,
+"id_municipio_f": 3,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1196,
+"mes": 12,
+"ano": 2017,
+"valor": 1.6,
+"id_municipio_f": 3,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1197,
+"mes": 12,
+"ano": 2017,
+"valor": -0.18,
+"id_municipio_f": 3,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1198,
+"mes": 12,
+"ano": 2017,
+"valor": 0.63,
+"id_municipio_f": 3,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1199,
+"mes": 12,
+"ano": 2017,
+"valor": 0.56,
+"id_municipio_f": 3,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1200,
+"mes": 12,
+"ano": 2017,
+"valor": -0.07,
+"id_municipio_f": 3,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1201,
+"mes": 1,
+"ano": 2017,
+"valor": 0.1,
+"id_municipio_f": 6,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1202,
+"mes": 1,
+"ano": 2017,
+"valor": 0.65,
+"id_municipio_f": 6,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1203,
+"mes": 1,
+"ano": 2017,
+"valor": 0.1,
+"id_municipio_f": 6,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1204,
+"mes": 1,
+"ano": 2017,
+"valor": -0.07,
+"id_municipio_f": 6,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1205,
+"mes": 1,
+"ano": 2017,
+"valor": -1.4,
+"id_municipio_f": 6,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1206,
+"mes": 1,
+"ano": 2017,
+"valor": -0.65,
+"id_municipio_f": 6,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1207,
+"mes": 1,
+"ano": 2017,
+"valor": 0.29,
+"id_municipio_f": 6,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1208,
+"mes": 1,
+"ano": 2017,
+"valor": 0.22,
+"id_municipio_f": 6,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1209,
+"mes": 1,
+"ano": 2017,
+"valor": 0.13,
+"id_municipio_f": 6,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1210,
+"mes": 1,
+"ano": 2017,
+"valor": 1,
+"id_municipio_f": 6,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1211,
+"mes": 2,
+"ano": 2017,
+"valor": 0.16,
+"id_municipio_f": 6,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1212,
+"mes": 2,
+"ano": 2017,
+"valor": -0.48,
+"id_municipio_f": 6,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1213,
+"mes": 2,
+"ano": 2017,
+"valor": 0.56,
+"id_municipio_f": 6,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1214,
+"mes": 2,
+"ano": 2017,
+"valor": 0.74,
+"id_municipio_f": 6,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1215,
+"mes": 2,
+"ano": 2017,
+"valor": -0.97,
+"id_municipio_f": 6,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1216,
+"mes": 2,
+"ano": 2017,
+"valor": -0.24,
+"id_municipio_f": 6,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1217,
+"mes": 2,
+"ano": 2017,
+"valor": 1.2,
+"id_municipio_f": 6,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1218,
+"mes": 2,
+"ano": 2017,
+"valor": 0.2,
+"id_municipio_f": 6,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1219,
+"mes": 2,
+"ano": 2017,
+"valor": 5.5,
+"id_municipio_f": 6,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1220,
+"mes": 2,
+"ano": 2017,
+"valor": 0.33,
+"id_municipio_f": 6,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1221,
+"mes": 3,
+"ano": 2017,
+"valor": 0.28,
+"id_municipio_f": 6,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1222,
+"mes": 3,
+"ano": 2017,
+"valor": 1,
+"id_municipio_f": 6,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1223,
+"mes": 3,
+"ano": 2017,
+"valor": 0.98,
+"id_municipio_f": 6,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1224,
+"mes": 3,
+"ano": 2017,
+"valor": -1.1,
+"id_municipio_f": 6,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1225,
+"mes": 3,
+"ano": 2017,
+"valor": -0.31,
+"id_municipio_f": 6,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1226,
+"mes": 3,
+"ano": 2017,
+"valor": -0.89,
+"id_municipio_f": 6,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1227,
+"mes": 3,
+"ano": 2017,
+"valor": 0.44,
+"id_municipio_f": 6,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1228,
+"mes": 3,
+"ano": 2017,
+"valor": -0.09,
+"id_municipio_f": 6,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1229,
+"mes": 3,
+"ano": 2017,
+"valor": 0.24,
+"id_municipio_f": 6,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1230,
+"mes": 3,
+"ano": 2017,
+"valor": -0.82,
+"id_municipio_f": 6,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1231,
+"mes": 4,
+"ano": 2017,
+"valor": 0.26,
+"id_municipio_f": 6,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1232,
+"mes": 4,
+"ano": 2017,
+"valor": 0.82,
+"id_municipio_f": 6,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1233,
+"mes": 4,
+"ano": 2017,
+"valor": -1.5,
+"id_municipio_f": 6,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1234,
+"mes": 4,
+"ano": 2017,
+"valor": 0.13,
+"id_municipio_f": 6,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1235,
+"mes": 4,
+"ano": 2017,
+"valor": 0.85,
+"id_municipio_f": 6,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1236,
+"mes": 4,
+"ano": 2017,
+"valor": 0.29,
+"id_municipio_f": 6,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1237,
+"mes": 4,
+"ano": 2017,
+"valor": 0.75,
+"id_municipio_f": 6,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1238,
+"mes": 4,
+"ano": 2017,
+"valor": -0.08,
+"id_municipio_f": 6,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1239,
+"mes": 4,
+"ano": 2017,
+"valor": 0.37,
+"id_municipio_f": 6,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1240,
+"mes": 4,
+"ano": 2017,
+"valor": 0.97,
+"id_municipio_f": 6,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1241,
+"mes": 5,
+"ano": 2017,
+"valor": 0.52,
+"id_municipio_f": 6,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1242,
+"mes": 5,
+"ano": 2017,
+"valor": -0.49,
+"id_municipio_f": 6,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1243,
+"mes": 5,
+"ano": 2017,
+"valor": 2,
+"id_municipio_f": 6,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1244,
+"mes": 5,
+"ano": 2017,
+"valor": -0.04,
+"id_municipio_f": 6,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1245,
+"mes": 5,
+"ano": 2017,
+"valor": 0.69,
+"id_municipio_f": 6,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1246,
+"mes": 5,
+"ano": 2017,
+"valor": 1.7,
+"id_municipio_f": 6,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1247,
+"mes": 5,
+"ano": 2017,
+"valor": 0.27,
+"id_municipio_f": 6,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1248,
+"mes": 5,
+"ano": 2017,
+"valor": 0.32,
+"id_municipio_f": 6,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1249,
+"mes": 5,
+"ano": 2017,
+"valor": 0.7,
+"id_municipio_f": 6,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1250,
+"mes": 5,
+"ano": 2017,
+"valor": -0.16,
+"id_municipio_f": 6,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1251,
+"mes": 6,
+"ano": 2017,
+"valor": -0.41,
+"id_municipio_f": 6,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1252,
+"mes": 6,
+"ano": 2017,
+"valor": -0.96,
+"id_municipio_f": 6,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1253,
+"mes": 6,
+"ano": 2017,
+"valor": -1.7,
+"id_municipio_f": 6,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1254,
+"mes": 6,
+"ano": 2017,
+"valor": -0.51,
+"id_municipio_f": 6,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1255,
+"mes": 6,
+"ano": 2017,
+"valor": 1.4,
+"id_municipio_f": 6,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1256,
+"mes": 6,
+"ano": 2017,
+"valor": -0.01,
+"id_municipio_f": 6,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1257,
+"mes": 6,
+"ano": 2017,
+"valor": 0.22,
+"id_municipio_f": 6,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1258,
+"mes": 6,
+"ano": 2017,
+"valor": 0.45,
+"id_municipio_f": 6,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1259,
+"mes": 6,
+"ano": 2017,
+"valor": 0.9,
+"id_municipio_f": 6,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1260,
+"mes": 6,
+"ano": 2017,
+"valor": 0.06,
+"id_municipio_f": 6,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1261,
+"mes": 7,
+"ano": 2017,
+"valor": -0.13,
+"id_municipio_f": 6,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1262,
+"mes": 7,
+"ano": 2017,
+"valor": -0.32,
+"id_municipio_f": 6,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1263,
+"mes": 7,
+"ano": 2017,
+"valor": 1.3,
+"id_municipio_f": 6,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1264,
+"mes": 7,
+"ano": 2017,
+"valor": -0.35,
+"id_municipio_f": 6,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1265,
+"mes": 7,
+"ano": 2017,
+"valor": -1.1,
+"id_municipio_f": 6,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1266,
+"mes": 7,
+"ano": 2017,
+"valor": -1.1,
+"id_municipio_f": 6,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1267,
+"mes": 7,
+"ano": 2017,
+"valor": 0.12,
+"id_municipio_f": 6,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1268,
+"mes": 7,
+"ano": 2017,
+"valor": 0.36,
+"id_municipio_f": 6,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1269,
+"mes": 7,
+"ano": 2017,
+"valor": 0.07,
+"id_municipio_f": 6,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1270,
+"mes": 7,
+"ano": 2017,
+"valor": -0.1,
+"id_municipio_f": 6,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1271,
+"mes": 8,
+"ano": 2017,
+"valor": 0.26,
+"id_municipio_f": 6,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1272,
+"mes": 8,
+"ano": 2017,
+"valor": -0.88,
+"id_municipio_f": 6,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1273,
+"mes": 8,
+"ano": 2017,
+"valor": 1.1,
+"id_municipio_f": 6,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1274,
+"mes": 8,
+"ano": 2017,
+"valor": 0.1,
+"id_municipio_f": 6,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1275,
+"mes": 8,
+"ano": 2017,
+"valor": -0.61,
+"id_municipio_f": 6,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1276,
+"mes": 8,
+"ano": 2017,
+"valor": 2.5,
+"id_municipio_f": 6,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1277,
+"mes": 8,
+"ano": 2017,
+"valor": 0.42,
+"id_municipio_f": 6,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1278,
+"mes": 8,
+"ano": 2017,
+"valor": 0.2,
+"id_municipio_f": 6,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1279,
+"mes": 8,
+"ano": 2017,
+"valor": 0.13,
+"id_municipio_f": 6,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1280,
+"mes": 8,
+"ano": 2017,
+"valor": -1.4,
+"id_municipio_f": 6,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1281,
+"mes": 9,
+"ano": 2017,
+"valor": -0.02,
+"id_municipio_f": 6,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1282,
+"mes": 9,
+"ano": 2017,
+"valor": -0.59,
+"id_municipio_f": 6,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1283,
+"mes": 9,
+"ano": 2017,
+"valor": -0.35,
+"id_municipio_f": 6,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1284,
+"mes": 9,
+"ano": 2017,
+"valor": 0.18,
+"id_municipio_f": 6,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1285,
+"mes": 9,
+"ano": 2017,
+"valor": 0.51,
+"id_municipio_f": 6,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1286,
+"mes": 9,
+"ano": 2017,
+"valor": 0.8,
+"id_municipio_f": 6,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1287,
+"mes": 9,
+"ano": 2017,
+"valor": 0.1,
+"id_municipio_f": 6,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1288,
+"mes": 9,
+"ano": 2017,
+"valor": 0.1,
+"id_municipio_f": 6,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1289,
+"mes": 9,
+"ano": 2017,
+"valor": 0.12,
+"id_municipio_f": 6,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1290,
+"mes": 9,
+"ano": 2017,
+"valor": 0.94,
+"id_municipio_f": 6,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1291,
+"mes": 10,
+"ano": 2017,
+"valor": 0.31,
+"id_municipio_f": 6,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1292,
+"mes": 10,
+"ano": 2017,
+"valor": -0.02,
+"id_municipio_f": 6,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1293,
+"mes": 10,
+"ano": 2017,
+"valor": 0.99,
+"id_municipio_f": 6,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1294,
+"mes": 10,
+"ano": 2017,
+"valor": -0.5,
+"id_municipio_f": 6,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1295,
+"mes": 10,
+"ano": 2017,
+"valor": 0.29,
+"id_municipio_f": 6,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1296,
+"mes": 10,
+"ano": 2017,
+"valor": -0.17,
+"id_municipio_f": 6,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1297,
+"mes": 10,
+"ano": 2017,
+"valor": 0.52,
+"id_municipio_f": 6,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1298,
+"mes": 10,
+"ano": 2017,
+"valor": 1.4,
+"id_municipio_f": 6,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1299,
+"mes": 10,
+"ano": 2017,
+"valor": 0.55,
+"id_municipio_f": 6,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1300,
+"mes": 10,
+"ano": 2017,
+"valor": 0.43,
+"id_municipio_f": 6,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1301,
+"mes": 11,
+"ano": 2017,
+"valor": 0.56,
+"id_municipio_f": 6,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1302,
+"mes": 11,
+"ano": 2017,
+"valor": -0.11,
+"id_municipio_f": 6,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1303,
+"mes": 11,
+"ano": 2017,
+"valor": 1.4,
+"id_municipio_f": 6,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1304,
+"mes": 11,
+"ano": 2017,
+"valor": 0.24,
+"id_municipio_f": 6,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1305,
+"mes": 11,
+"ano": 2017,
+"valor": 0.7,
+"id_municipio_f": 6,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1306,
+"mes": 11,
+"ano": 2017,
+"valor": 1.8,
+"id_municipio_f": 6,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1307,
+"mes": 11,
+"ano": 2017,
+"valor": 0.16,
+"id_municipio_f": 6,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1308,
+"mes": 11,
+"ano": 2017,
+"valor": 0.11,
+"id_municipio_f": 6,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1309,
+"mes": 11,
+"ano": 2017,
+"valor": 0.21,
+"id_municipio_f": 6,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1310,
+"mes": 11,
+"ano": 2017,
+"valor": 0.12,
+"id_municipio_f": 6,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1311,
+"mes": 12,
+"ano": 2017,
+"valor": 0.09,
+"id_municipio_f": 6,
+"id_produto_f": 6,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1312,
+"mes": 12,
+"ano": 2017,
+"valor": -0.29,
+"id_municipio_f": 6,
+"id_produto_f": 0,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1313,
+"mes": 12,
+"ano": 2017,
+"valor": -0.41,
+"id_municipio_f": 6,
+"id_produto_f": 5,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1314,
+"mes": 12,
+"ano": 2017,
+"valor": -0.74,
+"id_municipio_f": 6,
+"id_produto_f": 1,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1315,
+"mes": 12,
+"ano": 2017,
+"valor": 0.83,
+"id_municipio_f": 6,
+"id_produto_f": 9,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1316,
+"mes": 12,
+"ano": 2017,
+"valor": 1.2,
+"id_municipio_f": 6,
+"id_produto_f": 8,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1317,
+"mes": 12,
+"ano": 2017,
+"valor": 0.13,
+"id_municipio_f": 6,
+"id_produto_f": 7,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1318,
+"mes": 12,
+"ano": 2017,
+"valor": 0.01,
+"id_municipio_f": 6,
+"id_produto_f": 3,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1319,
+"mes": 12,
+"ano": 2017,
+"valor": 0.56,
+"id_municipio_f": 6,
+"id_produto_f": 4,
+"id_salario_f": 1
+},
+{
+"id_variacao": 1320,
+"mes": 12,
+"ano": 2017,
+"valor": -0.04,
+"id_municipio_f": 6,
+"id_produto_f": 2,
+"id_salario_f": 1
+},
+]
+
